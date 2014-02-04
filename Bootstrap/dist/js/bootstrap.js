@@ -6,7 +6,7 @@
 if (!jQuery) { throw new Error("Bootstrap requires jQuery") }
 
 /* ========================================================================
- * Bootstrap: transition.js v3.0.0
+ * bootstrap: transition.js v3.0.0
  * http://twbs.github.com/bootstrap/javascript.html#transitions
  * ========================================================================
  * Copyright 2013 Twitter, Inc.
@@ -63,7 +63,7 @@ if (!jQuery) { throw new Error("Bootstrap requires jQuery") }
 }(window.jQuery);
 
 /* ========================================================================
- * Bootstrap: alert.js v3.0.0
+ * bootstrap: alert.js v3.0.0
  * http://twbs.github.com/bootstrap/javascript.html#alerts
  * ========================================================================
  * Copyright 2013 Twitter, Inc.
@@ -162,7 +162,7 @@ if (!jQuery) { throw new Error("Bootstrap requires jQuery") }
 }(window.jQuery);
 
 /* ========================================================================
- * Bootstrap: button.js v3.0.0
+ * bootstrap: button.js v3.0.0
  * http://twbs.github.com/bootstrap/javascript.html#buttons
  * ========================================================================
  * Copyright 2013 Twitter, Inc.
@@ -272,7 +272,7 @@ if (!jQuery) { throw new Error("Bootstrap requires jQuery") }
 }(window.jQuery);
 
 /* ========================================================================
- * Bootstrap: carousel.js v3.0.0
+ * bootstrap: carousel.js v3.0.0
  * http://twbs.github.com/bootstrap/javascript.html#carousel
  * ========================================================================
  * Copyright 2012 Twitter, Inc.
@@ -490,7 +490,7 @@ if (!jQuery) { throw new Error("Bootstrap requires jQuery") }
 }(window.jQuery);
 
 /* ========================================================================
- * Bootstrap: collapse.js v3.0.0
+ * bootstrap: collapse.js v3.0.0
  * http://twbs.github.com/bootstrap/javascript.html#collapse
  * ========================================================================
  * Copyright 2012 Twitter, Inc.
@@ -670,7 +670,7 @@ if (!jQuery) { throw new Error("Bootstrap requires jQuery") }
 }(window.jQuery);
 
 /* ========================================================================
- * Bootstrap: dropdown.js v3.0.0
+ * bootstrap: dropdown.js v3.0.0
  * http://twbs.github.com/bootstrap/javascript.html#dropdowns
  * ========================================================================
  * Copyright 2012 Twitter, Inc.
@@ -825,7 +825,7 @@ if (!jQuery) { throw new Error("Bootstrap requires jQuery") }
 }(window.jQuery);
 
 /* ========================================================================
- * Bootstrap: modal.js v3.0.0
+ * bootstrap: modal.js v3.0.0
  * http://twbs.github.com/bootstrap/javascript.html#modals
  * ========================================================================
  * Copyright 2012 Twitter, Inc.
@@ -1072,7 +1072,7 @@ if (!jQuery) { throw new Error("Bootstrap requires jQuery") }
 }(window.jQuery);
 
 /* ========================================================================
- * Bootstrap: tooltip.js v3.0.0
+ * bootstrap: tooltip.js v3.0.0
  * http://twbs.github.com/bootstrap/javascript.html#tooltip
  * Inspired by the original jQuery.tipsy by Jason Frame
  * ========================================================================
@@ -1455,7 +1455,7 @@ if (!jQuery) { throw new Error("Bootstrap requires jQuery") }
 }(window.jQuery);
 
 /* ========================================================================
- * Bootstrap: popover.js v3.0.0
+ * bootstrap: popover.js v3.0.0
  * http://twbs.github.com/bootstrap/javascript.html#popovers
  * ========================================================================
  * Copyright 2012 Twitter, Inc.
@@ -1573,7 +1573,7 @@ if (!jQuery) { throw new Error("Bootstrap requires jQuery") }
 }(window.jQuery);
 
 /* ========================================================================
- * Bootstrap: scrollspy.js v3.0.0
+ * bootstrap: scrollspy.js v3.0.0
  * http://twbs.github.com/bootstrap/javascript.html#scrollspy
  * ========================================================================
  * Copyright 2012 Twitter, Inc.
@@ -1732,7 +1732,7 @@ if (!jQuery) { throw new Error("Bootstrap requires jQuery") }
 }(window.jQuery);
 
 /* ========================================================================
- * Bootstrap: tab.js v3.0.0
+ * bootstrap: tab.js v3.0.0
  * http://twbs.github.com/bootstrap/javascript.html#tabs
  * ========================================================================
  * Copyright 2012 Twitter, Inc.
@@ -1868,7 +1868,7 @@ if (!jQuery) { throw new Error("Bootstrap requires jQuery") }
 }(window.jQuery);
 
 /* ========================================================================
- * Bootstrap: affix.js v3.0.0
+ * bootstrap: affix.js v3.0.0
  * http://twbs.github.com/bootstrap/javascript.html#affix
  * ========================================================================
  * Copyright 2012 Twitter, Inc.

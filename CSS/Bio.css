@@ -1,0 +1,49 @@
+.slider-item h2.start{
+    color: #e36b23 !important;
+    text-shadow: -1px -1px 0 #666;
+ }
+
+.slider-item h2{
+    color: #fff !important;
+}
+
+.slider-item h3{
+    color: #e36b23 !important;
+    text-shadow: -1px -1px 0 #666;
+}
+
+.vco-slider{
+    background:
+        linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
+        linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
+        linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px,
+        linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px,
+        linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
+        linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
+    background-color: #131313;
+    background-size: 20px 20px;
+    background-attachment: fixed;
+}
+
+.vco-notouch .vco-slider .nav-previous:hover, .vco-notouch .vco-slider .nav-next:hover {
+    color: #fff !important;
+}
+
+.vco-timeline .vco-navigation .timenav .content .marker.active .flag .flag-content h3, .vco-timeline .vco-navigation .timenav .content .marker.active .flag-small .flag-content h3 {
+
+    color: #e36b23 !important;
+}
+
+.vco-timeline .vco-navigation .timenav-background {
+    background:
+        radial-gradient(circle at 50% 59%, #D2CAAB 3%, #364E27 4%, #364E27 11%, rgba(54,78,39,0) 12%, rgba(54,78,39,0)) 50px 0,
+        radial-gradient(circle at 50% 41%, #364E27 3%, #D2CAAB 4%, #D2CAAB 11%, rgba(210,202,171,0) 12%, rgba(210,202,171,0)) 50px 0,
+        radial-gradient(circle at 50% 59%, #D2CAAB 3%, #364E27 4%, #364E27 11%, rgba(54,78,39,0) 12%, rgba(54,78,39,0)) 0 50px,
+        radial-gradient(circle at 50% 41%, #364E27 3%, #D2CAAB 4%, #D2CAAB 11%, rgba(210,202,171,0) 12%, rgba(210,202,171,0)) 0 50px,
+        radial-gradient(circle at 100% 50%, #D2CAAB 16%, rgba(210,202,171,0) 17%),
+        radial-gradient(circle at 0% 50%, #364E27 16%, rgba(54,78,39,0) 17%),
+        radial-gradient(circle at 100% 50%, #D2CAAB 16%, rgba(210,202,171,0) 17%) 50px 50px,
+        radial-gradient(circle at 0% 50%, #364E27 16%, rgba(54,78,39,0) 17%) 50px 50px;
+    background-color:#63773F;
+    background-size:100px 100px;
+}
