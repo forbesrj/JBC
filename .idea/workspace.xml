@@ -1,1238 +1,176 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="330bf268-8b5c-40fc-b123-4e66d936df56" name="Default" comment="Added BodyMantra">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/spellchecker/classes/EnchantSpell.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/genericons/Genericons-Regular.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/spellchecker/classes/GoogleSpell.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/spellchecker/classes/utils/JSON.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jcrop/Jcrop.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/spellchecker/classes/utils/Logger.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/spellchecker/classes/PSpell.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/spellchecker/classes/PSpellShell.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/spellchecker/classes/SpellChecker.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/admin-bar-sprite-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/admin-bar-sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/plugins/akismet/akismet.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/img/alert.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/align-center-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/align-center.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/align-left-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/align-left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/align-none-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/align-none.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/align-right-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/align-right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/crystal/archive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/arrow-pointer-blue-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/arrow-pointer-blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/arrows-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wordpress/img/audio.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/crystal/audio.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/mediaelement/background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/mediaelement/bigplay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/imgareaselect/border-anim-h.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/imgareaselect/border-anim-v.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/bubble_bg-2x.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/bubble_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/img/button.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/o2k7/img/button_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/o2k7/img/button_bg_black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/o2k7/img/button_bg_silver.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/img/buttons.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/default/img/buttons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/headers/circle-thumbnail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/headers/circle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/crystal/code.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/img/colorpicker.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/comment-grey-bubble-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/comment-grey-bubble.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/img/confirm.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/mediaelement/controls.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/img/corners.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/fonts/dashicons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/fonts/dashicons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/fonts/dashicons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/date-button-2x.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/date-button.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/crystal/default.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpeditimage/img/delete-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpgallery/img/delete-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpeditimage/img/delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpgallery/img/delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/headers/diamond-thumbnail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/headers/diamond.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/crystal/document.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/dotted-line-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/dotted-line-light-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/dotted-line-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/dotted-line.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/down_arrow-2x.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/down_arrow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/img/drag.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpgallery/img/edit-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpgallery/img/edit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/embedded.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/fancybox_sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/fancybox_sprite@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/img/flash.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/mediaelement/flashmediaelement.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/gallery-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/gallery.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/spellchecker/includes/general.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/generic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/genericons/font/genericons-regular-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/fonts/genericons-regular-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/genericons/font/genericons-regular-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/fonts/genericons-regular-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/genericons/font/genericons-regular-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/fonts/genericons-regular-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/img/gotmoxie.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/img/horizontal.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/icon-pointer-flag-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/icon-pointer-flag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/smilies/icon_arrow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/smilies/icon_biggrin.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/smilies/icon_confused.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/smilies/icon_cool.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/smilies/icon_cry.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/smilies/icon_eek.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/smilies/icon_evil.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/smilies/icon_exclaim.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/smilies/icon_idea.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/smilies/icon_lol.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/smilies/icon_mad.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/smilies/icon_mrgreen.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/smilies/icon_neutral.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/smilies/icon_question.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/smilies/icon_razz.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/smilies/icon_redface.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/smilies/icon_rolleyes.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/smilies/icon_sad.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/smilies/icon_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/smilies/icon_surprised.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/smilies/icon_twisted.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/smilies/icon_wink.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/img/icons.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/icons32-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/icons32-vs-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/icons32-vs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/icons32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/img/iframe.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpeditimage/img/image-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wordpress/img/image.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpeditimage/img/image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/imgedit-icons-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/imgedit-icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/crystal/interactive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/default/img/items.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/list-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/list.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/mediaelement/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/thickbox/loadingAnimation.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/lock-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/lock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/plugins/akismet/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/plugins/akismet/img/logo@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/thickbox/macFFBgHack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/marker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/crop/marqueeHoriz.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/crop/marqueeVert.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/mask.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/mce-more-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/mce-more.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/mce-nextpage-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/mce-nextpage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/media-button-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/media-button-image.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/media-button-music.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/media-button-other.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/media-button-video.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/media-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wordpress/img/media.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/menu-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/menu-vs-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/menu-vs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/default/img/menu_arrow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/default/img/menu_check.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/media/moxieplayer.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/no.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wordpress/img/page.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/img/pagebreak.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/plupload/plupload.flash.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/plupload/plupload.silverlight.xap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/post-formats-vs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/post-formats.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/post-formats32-vs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/post-formats32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/default/img/progress.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/img/quicktime.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/img/realmedia.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/resize-2x.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/resize-rtl-2x.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/resize-rtl.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/resize.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/spellchecker/rpc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/rss-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/rss.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/screenshot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/screenshot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/screenshot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/se.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/search-icon-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/search-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/img/shockwave.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/mediaelement/silverlightmediaelement.xap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/sort-2x.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/sort.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/spinner-2x.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/spinner-2x.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/spinner.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/spinner.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/crystal/spreadsheet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/headers/star-thumbnail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/headers/star.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/stars-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/stars.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/Text/Diff/Engine/string.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/swfupload/swfupload.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpgallery/img/t.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/default/img/tabs.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/tabs.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/crystal/text.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/themes/timeline-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/themes/timeline-dark@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/themes/timeline-texture.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/timeline.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/timeline@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/toggle-arrow-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/toggle-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/img/trans.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/uploader-icons-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/uploader-icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/img/vertical.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wordpress/img/video.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/img/video.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/crystal/video.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/w-logo-blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/w-logo-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/wheel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/img/windowsmedia.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/spellchecker/img/wline.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/wordpress-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/wlw/wp-comments.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/wlw/wp-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/wp-tinymce.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/wlw/wp-watermark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/wpicons-2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/wpicons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/wpspin-2x.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/wpspin.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/wpspin_light-2x.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/wpspin_light.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/xit-2x.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/xit-2x.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/xit.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/xit.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/yes.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/404.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/404.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/404.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/themes/font/AbrilFatface-Average.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/themes/font/Arvo-PTSans.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Author.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Cache/Base.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/themes/font/Bevan-PotanoSans.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Bio.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Bio.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/Bio.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/themes/font/BreeSerif-OpenSans.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/genericons/COPYING.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/fonts/COPYING.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Cache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Caption.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Category.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Copyright.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Core.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Credit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Cache/DB.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Parse/Date.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/Text/Diff.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/themes/font/DroidSerif-DroidSans.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Enclosure.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Decode/HTML/Entities.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Exception.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Cache/File.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/themes/font/Georgia-Helvetica.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Net/IPv6.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/IRI.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Item.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/genericons/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/fonts/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/themes/font/Lekton-Molengo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Locator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/themes/font/Lora-Istok.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Cache/Memcache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/themes/font/Merriweather-NewsCycle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Misc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Cache/MySQL.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/themes/font/NewsCycle-Merriweather.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/themes/font/NixieOne-Ledger.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/themes/font/PT.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/themes/font/PTSerif-PTSans.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/themes/font/Pacifico-Arimo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Parser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/HTTP/Parser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/XML/Declaration/Parser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/themes/font/PlayfairDisplay-Muli.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/themes/font/PoiretOne-Molengo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/genericons/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/themes/font/Rancho-Gudea.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Rating.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Registry.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/Text/Diff/Renderer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Restriction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Sanitize.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/themes/font/SansitaOne-Kameron.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Content/Type/Sniffer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/Source.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/_admin.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/about.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/js/about.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/about.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/about.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/user/about.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/accordion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/accordion.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/admin-ajax.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/admin-bar-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/admin-bar-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/admin-bar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/admin-bar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/admin-bar.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/admin-bar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/admin-bar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/admin-footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/admin-functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/admin-header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/admin-post.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/admin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/admin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/admin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/user/admin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/plugins/akismet/admin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/ajax-actions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/plugins/akismet/akismet.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/plugins/akismet/akismet.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/plugins/akismet/akismet.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/anchor.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/js/anchor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/archive.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/archive.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/archive.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/async-upload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/atomlib.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/author-bio.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/author-template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/author.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/author.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/author.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/autosave.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/autosave.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/inc/back-compat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/inc/back-compat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/backbone.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/mediaelement/bigplay.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/bookmark-template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/bookmark.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/bookmark.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/buttons-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/buttons-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/buttons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/buttons.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/certificates/ca-bundle.crt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/cache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/canonical.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/capabilities.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/category-template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/category.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/category.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/category.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/category.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/plupload/changelog.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/spellchecker/changelog.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/charmap.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/js/charmap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-IXR.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-feed.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-ftp-pure.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-ftp-sockets.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-ftp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-http.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-json.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-oembed.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-pclzip.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-phpass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-phpmailer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-pop3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-simplepie.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-smtp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-snoopy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-wp-admin-bar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-wp-ajax-response.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-wp-comments-list-table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-wp-customize-control.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-wp-customize-manager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-wp-customize-section.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-wp-customize-setting.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-wp-editor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-wp-embed.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-wp-error.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-wp-filesystem-base.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-wp-filesystem-direct.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-wp-filesystem-ftpext.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-wp-filesystem-ftpsockets.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-wp-filesystem-ssh2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-wp-http-ixr-client.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-wp-image-editor-gd.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-wp-image-editor-imagick.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-wp-image-editor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-wp-importer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-wp-links-list-table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-wp-list-table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-wp-media-list-table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-wp-ms-sites-list-table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-wp-ms-themes-list-table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-wp-ms-users-list-table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-wp-plugin-install-list-table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-wp-plugins-list-table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-wp-posts-list-table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-wp-terms-list-table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-wp-theme-install-list-table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-wp-theme.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-wp-themes-list-table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-wp-upgrader-skins.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-wp-upgrader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-wp-users-list-table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-wp-walker.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-wp-xmlrpc-server.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-wp.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class.wp-dependencies.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class.wp-scripts.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class.wp-styles.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/color-picker-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/color-picker-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/color-picker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/color-picker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/color-picker.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/color-picker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/color_picker.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/js/color_picker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/colorpicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/colorpicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/blue/colors-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/coffee/colors-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/ectoplasm/colors-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/light/colors-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/midnight/colors-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/ocean/colors-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/sunrise/colors-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/blue/colors-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/coffee/colors-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/ectoplasm/colors-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/light/colors-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/midnight/colors-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/ocean/colors-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/sunrise/colors-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/blue/colors.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/coffee/colors.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/ectoplasm/colors.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/light/colors.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/midnight/colors.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/ocean/colors.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/sunrise/colors.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/blue/colors.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/coffee/colors.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/ectoplasm/colors.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/light/colors.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/midnight/colors.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/ocean/colors.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/sunrise/colors.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/blue/colors.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/coffee/colors.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/ectoplasm/colors.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/light/colors.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/midnight/colors.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/ocean/colors.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/colors/sunrise/colors.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/comment-reply.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/comment-reply.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/comment-template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/comment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/comment.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/comment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/comment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/comment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/theme-compat/comments-popup.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/comments.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/comments.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/comments.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/theme-compat/comments.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/common.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/compat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/spellchecker/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/content-aside.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-aside.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/content-aside.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/content-audio.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-audio.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-chat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/content-featured-post.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/content-gallery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-gallery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/content-image.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-image.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/content-image.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/content-link.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-link.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/content-link.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/content-none.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-none.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/content-none.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/content-page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/content-page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/content-quote.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-quote.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/content-quote.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-status.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/content-status.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/content-video.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-video.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/spellchecker/css/content.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/default/content.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/highcontrast/content.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/o2k7/content.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/content.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/content.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/content.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/continents-cities.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/page-templates/contributors.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/mediaelement/controls.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/credits.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/credits.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/user/credits.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/cron.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/crop/cropper.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/crop/cropper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/custom-background.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/custom-background.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/custom-background.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/custom-header.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/custom-header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/inc/custom-header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/inc/custom-header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/inc/custom-header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/customize-base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/customize-base.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/customize-controls-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/customize-controls-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/customize-controls.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/customize-controls.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/customize-controls.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/customize-controls.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/customize-loader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/customize-loader.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/customize-preview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/customize-preview.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/customize.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/js/customizer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/inc/customizer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/themes/dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/dashboard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/dashboard.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/dashboard.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/dashicons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/dashicons.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/fonts/dashicons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/date.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/default-constants.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/default-filters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/default-widgets.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/deprecated.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/deprecated.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/default/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/highcontrast/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/o2k7/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/edit-comments.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/edit-comments.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/edit-comments.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/edit-form-advanced.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/edit-form-comment.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/edit-link-form.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/edit-tag-form.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/edit-tags.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/edit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/edit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/utils/editable_selects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpeditimage/css/editimage.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpeditimage/editimage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpeditimage/js/editimage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/editor-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/editor-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/editor-style-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/css/editor-style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/css/editor-style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/editor-style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/editor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/editor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/editor.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/editor.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/directionality/editor_plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/fullscreen/editor_plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/inlinepopups/editor_plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/media/editor_plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/paste/editor_plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/spellchecker/editor_plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/tabfocus/editor_plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wordpress/editor_plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpdialogs/editor_plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpeditimage/editor_plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpfullscreen/editor_plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpgallery/editor_plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wplink/editor_plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpview/editor_plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/directionality/editor_plugin_src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/fullscreen/editor_plugin_src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/inlinepopups/editor_plugin_src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/media/editor_plugin_src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/paste/editor_plugin_src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/spellchecker/editor_plugin_src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/tabfocus/editor_plugin_src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wordpress/editor_plugin_src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpdialogs/editor_plugin_src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpeditimage/editor_plugin_src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpfullscreen/editor_plugin_src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpgallery/editor_plugin_src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wplink/editor_plugin_src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpview/editor_plugin_src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/editor_template.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/editor_template_src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/media/js/embed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/pomo/entry.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/genericons/example.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/export.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/export.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/farbtastic-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/farbtastic-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/farbtastic.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/farbtastic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/js/featured-content-admin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/featured-content.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/inc/featured-content.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/feed-atom-comments.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/feed-atom.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/feed-rdf.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/feed-rss.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/feed-rss2-comments.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/feed-rss2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/feed.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/file.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/theme-compat/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/utils/form_utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/formatting.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/freedoms.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/freedoms.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/user/freedoms.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/page-templates/front-page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/page-templates/full-width.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/page-templates/full-width.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/fullscreen/fullscreen.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/js/functions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/js/functions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/functions.wp-scripts.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/functions.wp-styles.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/gallery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/gallery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/general-template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/genericons/font/genericons-regular-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/fonts/genericons-regular-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/genericons/genericons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/fonts/genericons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ID3/getid3.lib.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ID3/getid3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/SimplePie/gzdecode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/plupload/handlers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/swfupload/handlers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/plupload/handlers.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/swfupload/handlers.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/theme-compat/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/heartbeat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/heartbeat.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/plugins/hello.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/hoverIntent.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/hoverIntent.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/js/html5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/js/html5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/js/html5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/http.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/ie-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/ie-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/css/ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/css/ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/css/ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/ie.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/image-edit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/image-edit.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/image-edit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/image.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/js/image.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/image.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/image.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/image.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/image.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/imgareaselect/imgareaselect.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/import.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/import.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/user/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/plugins/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/plugins/akismet/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/inline-edit-post.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/inline-edit-post.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/inline-edit-tax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/inline-edit-tax.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/Text/Diff/Renderer/inline.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/install-helper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/install-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/install-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/install.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/install.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/install.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/iris.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/jquery-1.10.2.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/jquery-migrate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/jquery-migrate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/jquery-ui-dialog-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/jquery-ui-dialog-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/jquery-ui-dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/jquery-ui-dialog.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jcrop/jquery.Jcrop.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jcrop/jquery.Jcrop.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/jquery.color.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/jquery.form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/jquery.form.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/jquery.hotkeys.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/jquery.hotkeys.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/imgareaselect/jquery.imgareaselect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/imgareaselect/jquery.imgareaselect.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/jquery.masonry.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/jquery.query.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/jquery.schedule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/jquery.serialize-object.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/jquery.table-hotkeys.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/jquery.table-hotkeys.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.accordion.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.autocomplete.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.button.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.core.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.datepicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.dialog.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.draggable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.droppable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.effect-blind.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.effect-bounce.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.effect-clip.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.effect-drop.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.effect-explode.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.effect-fade.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.effect-fold.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.effect-highlight.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.effect-pulsate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.effect-scale.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.effect-shake.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.effect-slide.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.effect-transfer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.effect.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.menu.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.mouse.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.position.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.progressbar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.resizable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.selectable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.slider.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.sortable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.spinner.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.tabs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.tooltip.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/jquery.ui.touch-punch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/ui/jquery.ui.widget.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/json2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/json2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/js/keyboard-image-navigation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/kses.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/l10n.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/plugins/akismet/legacy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ID3/license.commercial.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ID3/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/images/crystal/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/plupload/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/swfupload/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/link-add.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/link-manager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/link-parse-opml.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/link-template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/link.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/link.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/js/link.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/link.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/link.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/list-table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/load-scripts.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/load-styles.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/load.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/locale.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/mark_loaded_src.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/mce-view.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/mce-view.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/utils/mctabs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/media-editor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/media-editor.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/media-gallery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/media-gallery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/media-models.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/media-models.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/media-new.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/media-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/media-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/media-template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/media-upload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/media-upload.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/media-upload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/media-views-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/media-views-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/media-views.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/media-views.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/media-views.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/media-views.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/media.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/media/css/media.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/media/media.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/media.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/media/js/media.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/media.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/media.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/media.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/media.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/media.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/mediaelement/mediaelement-and-player.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/mediaelement/mediaelementplayer.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/menu-header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/menu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/menu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/menu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/user/menu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/meta-boxes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/meta.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/misc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/pomo/mo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/moderation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ID3/module.audio-video.asf.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ID3/module.audio-video.flv.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ID3/module.audio-video.matroska.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ID3/module.audio-video.quicktime.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ID3/module.audio-video.riff.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ID3/module.audio.ac3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ID3/module.audio.dts.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ID3/module.audio.flac.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ID3/module.audio.mp3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ID3/module.audio.ogg.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ID3/module.tag.apetag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ID3/module.tag.id3v1.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ID3/module.tag.id3v2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ID3/module.tag.lyrics3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/ms-admin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ms-blogs.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ms-default-constants.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ms-default-filters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/ms-delete-site.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/ms-deprecated.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ms-deprecated.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/ms-edit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ms-files.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ms-functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ms-load.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/ms-options.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ms-settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/ms-sites.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/ms-themes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/ms-upgrade-network.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/ms-users.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/ms.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/my-sites.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/Text/Diff/Engine/native.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/nav-menu-template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/nav-menu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/nav-menu.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/nav-menu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/nav-menu.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/nav-menus.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/js/navigation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/option.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/options-discussion.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/options-general.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/options-head.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/options-media.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/options-permalink.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/options-reading.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/options-writing.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/options.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/password-strength-meter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/password-strength-meter.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/paste/pastetext.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/paste/js/pastetext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/paste/pasteword.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/paste/js/pasteword.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/images/pattern-dark.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/images/pattern-light.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/pluggable-deprecated.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/pluggable.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/plugin-editor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/plugin-editor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/plugin-install.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/plugin-install.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/plugin-install.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/plugin-install.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/plugin-install.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/plugin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/plugin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/plugins.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/plugins.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/plupload/plupload.flash.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/plupload/plupload.html4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/plupload/plupload.html5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/plupload/plupload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/plupload/plupload.silverlight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/pomo/po.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpdialogs/js/popup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpdialogs/js/popup.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/post-formats.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/post-new.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/post-template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/post-thumbnail-template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/post.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/post.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/post.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/post.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/post.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/postbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/postbox.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/press-this.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/profile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/profile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/user/profile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/query.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/quicktags.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/quicktags.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/readme.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/plugins/akismet/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/ID3/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/registration-functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/registration.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/maint/repair.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/revision.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/revision.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/revision.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/revisions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/revisions.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/rewrite.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/rss-functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/rss.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/schema.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/screen.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/script-loader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/search.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/search.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/search.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/set-post-thumbnail.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/set-post-thumbnail.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/setup-config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/setup.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/Text/Diff/Engine/shell.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/shortcode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/shortcode.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/shortcodes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/shortcuts.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/sidebar-content.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/sidebar-footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/sidebar-front.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/sidebar-main.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/sidebar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/sidebar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/sidebar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/theme-compat/sidebar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/single.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/single.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/single.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/site-info.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/site-new.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/site-settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/site-themes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/site-users.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/sites.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/js/slider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/source_editor.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/js/source_editor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/storyjs-embed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/pomo/streams.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/suggest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/jquery/suggest.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/svg-painter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/svg-painter.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/swfobject.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/swfupload/plugins/swfupload.cookies.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/swfupload/swfupload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/swfupload/plugins/swfupload.queue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/swfupload/plugins/swfupload.speed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/swfupload/plugins/swfupload.swfobject.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/tag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/tag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/tag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/tags.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/tags.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/taxonomy-post_format.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/taxonomy-post_format.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/taxonomy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/taxonomy.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/template-loader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/inc/template-tags.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/inlinepopups/template.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/template.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/js/theme-customizer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/js/theme-customizer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/theme-editor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/theme-editor.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/theme-install.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/theme-install.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/theme-install.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/theme-install.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/theme-install.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/theme-preview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/theme-preview.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/theme.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/theme.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/theme.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/theme.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/themes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/themes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/thickbox/thickbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/thickbox/thickbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/timeline-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/Timeline/timeline.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/tiny_mce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/tiny_mce_popup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/tools.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/pomo/translations.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tw-sack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tw-sack.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/languages/twentyfourteen.pot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/languages/twentythirteen.pot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/languages/twentytwelve.pot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/default/ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/highcontrast/ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/o2k7/ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/o2k7/ui_black.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/themes/advanced/skins/o2k7/ui_silver.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/underscore.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/update-core.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/update-core.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/update-core.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/update.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/update.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/update.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/update.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/upgrade-functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/upgrade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/upgrade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/upgrade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/upload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/user-edit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/user-edit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/user/user-edit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/user-new.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/user-new.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/user-profile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/user-profile.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/user-suggest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/user-suggest.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/user.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/user.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/users.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/network/users.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/utils.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/utils/validate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/vars.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/version.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/plugins/akismet/widget.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/widgets.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/widgets.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/widgets.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/widgets.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentyfourteen/inc/widgets.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/widgets.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/window.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/wlwmanifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/word-count.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/word-count.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/wordpress-logo-white.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/images/wordpress-logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-activate.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/wp-admin-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/wp-admin-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/wp-admin.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/wp-admin.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/wp-ajax-response.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/wp-ajax-response.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/wp-auth-check-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/wp-auth-check-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/wp-auth-check.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/wp-auth-check.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/wp-auth-check.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/wp-auth-check.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/wp-backbone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/wp-backbone.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-blog-header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-comments-post.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-config-sample.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-cron.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/wp-db.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/wp-diff.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpfullscreen/css/wp-fullscreen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/wp-fullscreen.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/wp-fullscreen.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/langs/wp-langs-en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/langs/wp-langs.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-links-opml.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/wp-list-revisions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/wp-list-revisions.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/wp-lists.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/wp-lists.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-load.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-mail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/wp-mce-help.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/mediaelement/wp-mediaelement.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/mediaelement/wp-mediaelement.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/plupload/wp-plupload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/plupload/wp-plupload.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/wp-pointer-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/wp-pointer-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/wp-pointer.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/wp-pointer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/wp-pointer.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/wp-pointer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-settings.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-signup.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/wp-tinymce-schema.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/wp-tinymce.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-trackback.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/wp-util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/wp-util.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpdialogs/js/wpdialog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpdialogs/js/wpdialog.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/wplink.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/wplink.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/Text/Diff/Engine/xdiff.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/xfn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/xfn.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/xmlrpc.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/zxcvbn-async.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/zxcvbn-async.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/zxcvbn.min.js" />
-      <change type="MOVED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\Images\Index\email-small.jpg" afterPath="$PROJECT_DIR$/img/Index/email-small.jpg" />
-      <change type="MOVED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\Images\Index\email.png" afterPath="$PROJECT_DIR$/img/Index/email.png" />
-      <change type="MOVED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\Images\Index\frameworks-large.jpg" afterPath="$PROJECT_DIR$/img/Index/frameworks-large.jpg" />
-      <change type="MOVED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\Images\Index\frameworks-small.jpg" afterPath="$PROJECT_DIR$/img/Index/frameworks-small.jpg" />
-      <change type="MOVED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\Images\Index\question.jpg" afterPath="$PROJECT_DIR$/img/Index/question.jpg" />
-      <change type="MOVED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\js\angular.min.js" afterPath="$PROJECT_DIR$/js/lib/angular.min.js" />
-      <change type="MOVED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\js\bootstrap.min.js" afterPath="$PROJECT_DIR$/js/lib/bootstrap.min.js" />
-      <change type="MOVED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\js\jquery-1.10.2.min.js" afterPath="$PROJECT_DIR$/js/lib/jquery-1.10.2.min.js" />
-      <change type="MOVED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\js\knockout-2.2.1.js" afterPath="$PROJECT_DIR$/js/lib/knockout-2.2.1.js" />
+    <list default="true" id="330bf268-8b5c-40fc-b123-4e66d936df56" name="Default" comment="Added BodyMantra&#10;">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/404.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/archive.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/author.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/comments.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/content-aside.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/content-image.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/content-link.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/content-none.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/content-page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/content-quote.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/content-status.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/content.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/css/ie.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/editor-style-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/editor-style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/image.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/inc/custom-header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/js/html5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/js/navigation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/js/theme-customizer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/languages/twentytwelve.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/page-templates/front-page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/page-templates/full-width.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/sidebar-front.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/sidebar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/single.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/tag.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\license.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\readme.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-activate.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-admin\css\farbtastic-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-admin\css\install-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-blog-header.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-comments-post.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-config-sample.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-cron.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-links-opml.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-load.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-login.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-mail.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-settings.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-signup.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-trackback.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\xmlrpc.php" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/404.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/404.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/archive.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/archive.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/author-bio.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/author-bio.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/author.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/author.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/category.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/category.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/comments.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/comments.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-aside.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content-aside.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-audio.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content-audio.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-chat.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content-chat.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-gallery.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content-gallery.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-image.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content-image.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-link.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content-link.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-none.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content-none.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-quote.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content-quote.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-status.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content-status.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-video.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content-video.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/css/editor-style.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/editor-style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/css/ie.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/ie.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/fonts/COPYING.txt" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/fonts/COPYING.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/fonts/LICENSE.txt" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/fonts/LICENSE.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/fonts/genericons-regular-webfont.eot" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/fonts/genericons-regular-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/fonts/genericons-regular-webfont.svg" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/fonts/genericons-regular-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/fonts/genericons-regular-webfont.ttf" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/fonts/genericons-regular-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/fonts/genericons-regular-webfont.woff" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/fonts/genericons-regular-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/fonts/genericons.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/fonts/genericons.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/footer.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/footer.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/functions.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/functions.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/header.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/header.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/image.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/image.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/dotted-line-2x.png" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/images/dotted-line-2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/dotted-line-light-2x.png" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/images/dotted-line-light-2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/dotted-line-light.png" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/images/dotted-line-light.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/dotted-line.png" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/images/dotted-line.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/headers/circle-thumbnail.png" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/images/headers/circle-thumbnail.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/headers/circle.png" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/images/headers/circle.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/headers/diamond-thumbnail.png" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/images/headers/diamond-thumbnail.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/headers/diamond.png" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/images/headers/diamond.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/headers/star-thumbnail.png" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/images/headers/star-thumbnail.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/headers/star.png" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/images/headers/star.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/search-icon-2x.png" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/images/search-icon-2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/search-icon.png" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/images/search-icon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/inc/back-compat.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/inc/back-compat.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/inc/custom-header.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/inc/custom-header.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/index.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/js/functions.js" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/js/functions.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/js/html5.js" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/js/html5.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/js/theme-customizer.js" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/js/theme-customizer.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/languages/twentythirteen.pot" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/languages/twentythirteen.pot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/page.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/page.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/rtl.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/rtl.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/screenshot.png" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/screenshot.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/search.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/search.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/sidebar-main.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/sidebar-main.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/sidebar.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/sidebar.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/single.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/single.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/style.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/tag.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/tag.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/taxonomy-post_format.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/taxonomy-post_format.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/fonts/dashicons.eot" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/fonts/dashicons.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/fonts/dashicons.ttf" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/fonts/dashicons.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/fonts/dashicons.woff" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/fonts/dashicons.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/user-edit.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/user-edit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/user-new.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/user-new.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/users.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/users.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/widgets.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/widgets.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Home.html" afterPath="$PROJECT_DIR$/Home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/JBC.iml" afterPath="$PROJECT_DIR$/.idea/JBC.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/bootstrap/dist/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/bootstrap/dist/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/examples/carousel/carousel.css" afterPath="$PROJECT_DIR$/bootstrap/examples/carousel/carousel.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/assets/css/docs.css" afterPath="$PROJECT_DIR$/bootstrap/assets/css/docs.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/_includes/footer.html" afterPath="$PROJECT_DIR$/bootstrap/_includes/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/_includes/header.html" afterPath="$PROJECT_DIR$/bootstrap/_includes/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/examples/carousel/index.html" afterPath="$PROJECT_DIR$/bootstrap/examples/carousel/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/examples/grid/index.html" afterPath="$PROJECT_DIR$/bootstrap/examples/grid/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/examples/jumbotron/index.html" afterPath="$PROJECT_DIR$/bootstrap/examples/jumbotron/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/examples/jumbotron-narrow/index.html" afterPath="$PROJECT_DIR$/bootstrap/examples/jumbotron-narrow/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/examples/justified-nav/index.html" afterPath="$PROJECT_DIR$/bootstrap/examples/justified-nav/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/examples/navbar/index.html" afterPath="$PROJECT_DIR$/bootstrap/examples/navbar/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/examples/navbar-fixed-top/index.html" afterPath="$PROJECT_DIR$/bootstrap/examples/navbar-fixed-top/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/examples/navbar-static-top/index.html" afterPath="$PROJECT_DIR$/bootstrap/examples/navbar-static-top/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/examples/offcanvas/index.html" afterPath="$PROJECT_DIR$/bootstrap/examples/offcanvas/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/examples/signin/index.html" afterPath="$PROJECT_DIR$/bootstrap/examples/signin/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/examples/starter-template/index.html" afterPath="$PROJECT_DIR$/bootstrap/examples/starter-template/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/examples/sticky-footer/index.html" afterPath="$PROJECT_DIR$/bootstrap/examples/sticky-footer/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/examples/sticky-footer-navbar/index.html" afterPath="$PROJECT_DIR$/bootstrap/examples/sticky-footer-navbar/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/less/print.less" afterPath="$PROJECT_DIR$/bootstrap/less/print.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/Index.css" afterPath="$PROJECT_DIR$/css/Index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/about.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/about.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/admin-bar-rtl.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/admin-bar-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/admin-bar-rtl.min.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/admin-bar-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/admin-bar.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/admin-bar.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/admin-bar.min.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/admin-bar.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/admin-bar.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/admin-bar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/buttons-rtl.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/buttons-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/buttons-rtl.min.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/buttons-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/buttons.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/buttons.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/buttons.min.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/buttons.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/class-oembed.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-oembed.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-wp-comments-list-table.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-wp-comments-list-table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/js/common.js" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/js/common.min.js" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/common.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/js/dashboard.js" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/dashboard.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/js/dashboard.min.js" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/dashboard.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/dashboard.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/dashboard.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/dashicons.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/dashicons.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/dashicons.min.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/dashicons.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/fonts/dashicons.svg" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/fonts/dashicons.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/functions.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/css/install-rtl.min.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/install-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/css/install.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/install.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/css/install.min.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/install.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/media-views-rtl.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/media-views-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/media-views-rtl.min.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/media-views-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/media-views.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/media-views.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/media-views.min.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/media-views.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/misc.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/misc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpdialogs/js/popup.min.js" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpdialogs/js/popup.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/post.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/post.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/query.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/query.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/js/theme.js" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/theme.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/js/theme.min.js" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/theme.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/theme.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/theme.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/themes.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/themes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/version.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/version.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/css/wp-admin-rtl.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/wp-admin-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/css/wp-admin-rtl.min.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/wp-admin-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/css/wp-admin.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/wp-admin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/css/wp-admin.min.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/wp-admin.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/wp-pointer-rtl.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/wp-pointer-rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/wp-pointer-rtl.min.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/wp-pointer-rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/wp-pointer.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/wp-pointer.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/wp-pointer.min.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/wp-pointer.min.css" />
     </list>
     <ignored path="JBC.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1255,10 +193,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Home.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Home.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="16" selection-start="1717" selection-end="55388" vertical-scroll-proportion="0.35437882" vertical-offset="846" max-vertical-offset="3281">
+            <state line="47" column="96" selection-start="1906" selection-end="1906" vertical-scroll-proportion="-9.807693" vertical-offset="544" max-vertical-offset="3281">
               <folding />
             </state>
           </provider>
@@ -1267,66 +205,36 @@
       <file leaf-file-name="Bio.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="22" selection-start="917" selection-end="917" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="1054">
+            <state line="23" column="22" selection-start="917" selection-end="917" vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="1054">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bio.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/Bio.css">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="58" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="918">
+            <state line="17" column="166" selection-start="499" selection-end="499" vertical-scroll-proportion="-11.56" vertical-offset="0" max-vertical-offset="731">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bio.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/Bio.js">
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="43" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="408">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="969">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Documents/_Ryan's Documents/Code/1_Scrolling_with_Skrollr/finished/index.html">
+      <file leaf-file-name="Index.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/Index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="19" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="2091">
+            <state line="9" column="4" selection-start="181" selection-end="181" vertical-scroll-proportion="0.26288658" vertical-offset="0" max-vertical-offset="2584">
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Documents/_Ryan's Documents/Code/9 Scrolling page backgrounds/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="33" selection-start="861" selection-end="861" vertical-scroll-proportion="0.0" vertical-offset="73" max-vertical-offset="1241">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PT.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/Timeline/themes/font/PT.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="39" selection-start="2079" selection-end="2079" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="357">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery-1.10.2.min.map" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/lib/jquery-1.10.2.min.map">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="sourcemapFileViewerProvider">
-            <state />
           </provider>
         </entry>
       </file>
@@ -1354,12 +262,15 @@
         <option value="$PROJECT_DIR$/js/Bio.js" />
         <option value="$PROJECT_DIR$/css/Bio.css" />
         <option value="$PROJECT_DIR$/Home.html" />
+        <option value="$PROJECT_DIR$/css/Index.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="960" />
-    <option name="height" value="1050" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -1416,7 +327,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="BodyMantra" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1428,7 +339,7 @@
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
-    <property name="options.lastSelected" value="appearance" />
+    <property name="options.lastSelected" value="http.proxy" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
@@ -1443,11 +354,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-content\themes" />
       <recent name="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra" />
       <recent name="C:\Users\Ryan\WebstormProjects\JBC\js\lib" />
       <recent name="C:\Users\Ryan\WebstormProjects\JBC\css\Timeline" />
       <recent name="C:\Users\Ryan\WebstormProjects\JBC\js" />
-      <recent name="C:\Users\Ryan\WebstormProjects\JBC\JS" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Ryan\WebstormProjects\JBC\js\lib" />
@@ -1518,25 +429,30 @@
       <created>1377365512066</created>
       <updated>1377365512066</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added BodyMantra">
+      <created>1391477418100</created>
+      <updated>1391477418100</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="960" height="1050" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32337245" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15814696" sideWeight="0.67108166" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289183" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.330076" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24972796" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3292683" sideWeight="0.67108166" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30487806" sideWeight="0.6708861" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289183" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14643237" sideWeight="0.6708861" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3291714" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1799,33 +715,14 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/Index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2465" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/lib/storyjs-embed.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="45" column="1682" selection-start="3895" selection-end="3895" vertical-scroll-proportion="0.73660207" vertical-offset="0" max-vertical-offset="877" />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/_Ryan's Documents/Code/1_Scrolling_with_Skrollr/finished/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="19" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="2091">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Documents/_Ryan's Documents/Code/9 Scrolling page backgrounds/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="33" selection-start="861" selection-end="861" vertical-scroll-proportion="0.0" vertical-offset="73" max-vertical-offset="1241">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="22" selection-start="917" selection-end="917" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="1054">
           <folding />
         </state>
       </provider>
@@ -1837,6 +734,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/js/html5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/_Ryan's Documents/Code/1_Scrolling_with_Skrollr/finished/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="19" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="2091">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="166" selection-start="499" selection-end="499" vertical-scroll-proportion="-11.56" vertical-offset="0" max-vertical-offset="731">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/Bio.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="58" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="918">
@@ -1844,16 +769,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-admin/js/xfn.js">
+    <entry file="file://$PROJECT_DIR$/Bio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="23" selection-start="353" selection-end="353" vertical-scroll-proportion="0.16565165" vertical-offset="0" max-vertical-offset="821">
+        <state line="23" column="22" selection-start="917" selection-end="917" vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="1054">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="16" selection-start="1717" selection-end="55388" vertical-scroll-proportion="0.35437882" vertical-offset="846" max-vertical-offset="3281">
+        <state line="47" column="96" selection-start="1906" selection-end="1906" vertical-scroll-proportion="-9.807693" vertical-offset="544" max-vertical-offset="3281">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/Index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="4" selection-start="181" selection-end="181" vertical-scroll-proportion="0.26288658" vertical-offset="0" max-vertical-offset="2584">
           <folding />
         </state>
       </provider>
