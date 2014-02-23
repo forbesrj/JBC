@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="330bf268-8b5c-40fc-b123-4e66d936df56" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/elastislide.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/elastislide.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JBC.iws" />
@@ -248,19 +248,19 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="elastislide.css" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="elastislide.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/elastislide.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="17" column="1" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1258">
+                <state line="14" column="0" selection-start="375" selection-end="375" vertical-scroll-proportion="0.43510056" vertical-offset="0" max-vertical-offset="1275">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$USER_HOME$/Documents/_Ryan's Documents/Code/ResponsiveImageGallery/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="20" column="17" selection-start="1083" selection-end="1083" vertical-scroll-proportion="0.65259117" vertical-offset="0" max-vertical-offset="1870">
+                <state line="20" column="17" selection-start="1083" selection-end="1083" vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="1870">
                   <folding />
                 </state>
               </provider>
@@ -320,6 +320,7 @@
         <option value="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/functions.php" />
         <option value="$PROJECT_DIR$/BodyMantra/wp-content/plugins/Gallery_Carousel.php" />
         <option value="$PROJECT_DIR$/BodyMantra/wp-content/plugins/WPSE45326_Gallery_Replacement.php" />
+        <option value="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/elastislide.css" />
       </list>
     </option>
   </component>
@@ -882,7 +883,7 @@
       <workItem from="1392596532836" duration="102000" />
       <workItem from="1392596648080" duration="66000" />
       <workItem from="1392596732569" duration="4599000" />
-      <workItem from="1392944308373" duration="10449000" />
+      <workItem from="1392944308373" duration="10506000" />
     </task>
     <task id="LOCAL-00001" summary="Added BodyMantra">
       <created>1391477418100</created>
@@ -896,11 +897,15 @@
       <created>1393189630227</created>
       <updated>1393189630227</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="initial commit&#10;">
+      <created>1393190799341</created>
+      <updated>1393190799341</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15580000" />
+    <option name="totallyTimeSpent" value="15637000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -924,7 +929,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32299465" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -948,7 +953,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17944622" sideWeight="0.6708861" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17944622" sideWeight="0.6708861" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -993,7 +998,8 @@
     <MESSAGE value="Added BodyMantra" />
     <MESSAGE value="Added BodyMantra theme and responsive buttons on home page&#10;" />
     <MESSAGE value="Implementing slide show" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementing slide show" />
+    <MESSAGE value="initial commit&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1346,16 +1352,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/elastislide.css">
+    <entry file="file://$USER_HOME$/Documents/_Ryan's Documents/Code/ResponsiveImageGallery/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="1" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1258">
+        <state line="20" column="17" selection-start="1083" selection-end="1083" vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="1870">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/_Ryan's Documents/Code/ResponsiveImageGallery/index.html">
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/elastislide.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="17" selection-start="1083" selection-end="1083" vertical-scroll-proportion="0.65259117" vertical-offset="0" max-vertical-offset="1870">
+        <state line="14" column="0" selection-start="375" selection-end="375" vertical-scroll-proportion="0.43510056" vertical-offset="0" max-vertical-offset="1275">
           <folding />
         </state>
       </provider>
