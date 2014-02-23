@@ -230,7 +230,7 @@ add_filter( 'wp_title', 'twentythirteen_wp_title', 10, 2 );
  *
  * @return void
  */
-function twentythirteen_widgets_init() {
+function bodymantra_widgets_init() {
 	register_sidebar( array(
 		'name'          => __( 'Main Widget Area', 'twentythirteen' ),
 		'id'            => 'sidebar-1',
@@ -251,7 +251,7 @@ function twentythirteen_widgets_init() {
 		'after_title'   => '</h3>',
 	) );
 }
-add_action( 'widgets_init', 'twentythirteen_widgets_init' );
+add_action( 'widgets_init', 'bodymantra_widgets_init' );
 
 if ( ! function_exists( 'twentythirteen_paging_nav' ) ) :
 /**

@@ -110,6 +110,7 @@ body {
 	color: #141412;
 	line-height: 1.5;
 	margin: 0;
+    background-color: #fff;
 }
 
 a {
@@ -768,7 +769,7 @@ img.wp-smiley,
 	border-left: 1px solid #f2f2f2;
 	border-right: 1px solid #f2f2f2;
 	margin: 0 auto;
-	max-width: 1600px;
+	/*max-width: 1600px;*/
 	width: 100%;
 }
 
@@ -802,10 +803,11 @@ img.wp-smiley,
 
 .site-header {
 	position: relative;
+    background: #750E72;
 }
 
 .site-header .home-link {
-	color: #141412;
+	color: #C070A6;
 	display: block;
 	margin: 0 auto;
 	max-width: 1080px;
@@ -924,7 +926,7 @@ ul.nav-menu li:hover > ul,
 .navbar {
 	background-color: #f7f5e7;
 	margin: 0 auto;
-	max-width: 1600px;
+	/*max-width: 1600px;*/
 	width: 100%;
 }
 
@@ -2486,7 +2488,7 @@ footer.entry-meta {
 }
 
 .site-footer .widget_calendar tbody td {
-	background-color: rgba(255, 255, 255, 0.05);
+	background-color: #750E72;
 }
 
 .widget_calendar tbody .pad, .site-footer .widget_calendar tbody .pad {
@@ -2512,11 +2514,12 @@ footer.entry-meta {
 }
 
 .site-footer a {
-	color: #686758;
+	color: #C070A6;
+    font-weight: bold;
 }
 
 .site-footer .sidebar-container {
-	background-color: #220e10;
+	background-color: #750E72;
 	padding: 20px 0;
 }
 
@@ -2550,7 +2553,7 @@ footer.entry-meta {
 }
 
 .site-footer .widget a {
-	color: #e6402a;
+	color: #C070A6;
 }
 
 .site-footer .widget-title,
@@ -3043,7 +3046,7 @@ footer.entry-meta {
 	}
 
 	.site {
-		max-width: 98%;
+		/*max-width: 98%;*/
 	}
 
 	.site-header {

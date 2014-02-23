@@ -1,176 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="330bf268-8b5c-40fc-b123-4e66d936df56" name="Default" comment="Added BodyMantra&#10;">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/404.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/archive.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/author.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/category.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/comments.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/content-aside.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/content-image.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/content-link.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/content-none.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/content-page.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/content-quote.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/content-status.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/content.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/css/ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/editor-style-rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/editor-style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/footer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/functions.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/header.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/image.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/inc/custom-header.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/js/html5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/js/navigation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/js/theme-customizer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/languages/twentytwelve.pot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/page-templates/front-page.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/page-templates/full-width.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/page.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/screenshot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/search.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/sidebar-front.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/sidebar.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/single.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentytwelve/tag.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\license.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\readme.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-activate.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-admin\css\farbtastic-rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-admin\css\install-rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-blog-header.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-comments-post.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-config-sample.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-cron.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-links-opml.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-load.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-login.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-mail.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-settings.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-signup.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-trackback.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\xmlrpc.php" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/404.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/404.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/archive.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/archive.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/author-bio.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/author-bio.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/author.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/author.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/category.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/category.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/comments.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/comments.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-aside.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content-aside.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-audio.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content-audio.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-chat.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content-chat.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-gallery.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content-gallery.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-image.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content-image.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-link.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content-link.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-none.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content-none.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-quote.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content-quote.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-status.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content-status.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content-video.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content-video.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/content.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/css/editor-style.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/editor-style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/css/ie.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/ie.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/fonts/COPYING.txt" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/fonts/COPYING.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/fonts/LICENSE.txt" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/fonts/LICENSE.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/fonts/genericons-regular-webfont.eot" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/fonts/genericons-regular-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/fonts/genericons-regular-webfont.svg" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/fonts/genericons-regular-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/fonts/genericons-regular-webfont.ttf" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/fonts/genericons-regular-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/fonts/genericons-regular-webfont.woff" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/fonts/genericons-regular-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/fonts/genericons.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/fonts/genericons.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/footer.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/footer.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/functions.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/functions.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/header.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/header.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/image.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/image.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/dotted-line-2x.png" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/images/dotted-line-2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/dotted-line-light-2x.png" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/images/dotted-line-light-2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/dotted-line-light.png" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/images/dotted-line-light.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/dotted-line.png" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/images/dotted-line.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/headers/circle-thumbnail.png" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/images/headers/circle-thumbnail.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/headers/circle.png" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/images/headers/circle.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/headers/diamond-thumbnail.png" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/images/headers/diamond-thumbnail.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/headers/diamond.png" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/images/headers/diamond.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/headers/star-thumbnail.png" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/images/headers/star-thumbnail.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/headers/star.png" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/images/headers/star.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/search-icon-2x.png" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/images/search-icon-2x.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/images/search-icon.png" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/images/search-icon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/inc/back-compat.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/inc/back-compat.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/inc/custom-header.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/inc/custom-header.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/index.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/js/functions.js" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/js/functions.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/js/html5.js" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/js/html5.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/js/theme-customizer.js" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/js/theme-customizer.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/languages/twentythirteen.pot" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/languages/twentythirteen.pot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/page.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/page.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/rtl.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/rtl.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/screenshot.png" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/screenshot.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/search.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/search.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/sidebar-main.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/sidebar-main.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/sidebar.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/sidebar.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/single.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/single.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/style.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/tag.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/tag.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/taxonomy-post_format.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/taxonomy-post_format.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/fonts/dashicons.eot" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/fonts/dashicons.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/fonts/dashicons.ttf" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/fonts/dashicons.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/fonts/dashicons.woff" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/fonts/dashicons.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/user-edit.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/user-edit.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/user-new.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/user-new.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/users.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/users.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/widgets.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/widgets.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Home.html" afterPath="$PROJECT_DIR$/Home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/Index.css" afterPath="$PROJECT_DIR$/css/Index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/about.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/about.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/admin-bar-rtl.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/admin-bar-rtl.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/admin-bar-rtl.min.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/admin-bar-rtl.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/admin-bar.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/admin-bar.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/admin-bar.min.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/admin-bar.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/admin-bar.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/admin-bar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/buttons-rtl.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/buttons-rtl.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/buttons-rtl.min.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/buttons-rtl.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/buttons.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/buttons.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/buttons.min.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/buttons.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/class-oembed.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/class-oembed.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-wp-comments-list-table.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/class-wp-comments-list-table.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/js/common.js" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/common.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/js/common.min.js" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/common.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/js/dashboard.js" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/dashboard.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/js/dashboard.min.js" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/dashboard.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/dashboard.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/dashboard.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/dashicons.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/dashicons.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/dashicons.min.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/dashicons.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/fonts/dashicons.svg" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/fonts/dashicons.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/functions.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/css/install-rtl.min.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/install-rtl.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/css/install.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/install.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/css/install.min.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/install.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/media-views-rtl.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/media-views-rtl.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/media-views-rtl.min.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/media-views-rtl.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/media-views.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/media-views.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/media-views.min.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/media-views.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/misc.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/misc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpdialogs/js/popup.min.js" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/js/tinymce/plugins/wpdialogs/js/popup.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/post.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/post.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/query.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/query.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/js/theme.js" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/theme.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/js/theme.min.js" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/js/theme.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/theme.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/includes/theme.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/themes.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/themes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/version.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/version.php" />
+    <list default="true" id="330bf268-8b5c-40fc-b123-4e66d936df56" name="Default" comment="Implementing slide show">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/plugins/WPSE45326_Gallery_Replacement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/widgets/carousel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/elastislide.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/js/gallery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/global.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/js/jquery.easing.1.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/js/jquery.elastislide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/js/jquery.tmpl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/JBC.iml" afterPath="$PROJECT_DIR$/.idea/JBC.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/editor-style.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/editor-style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/functions.php" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/style.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/css/wp-admin-rtl.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/wp-admin-rtl.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/css/wp-admin-rtl.min.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/wp-admin-rtl.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/css/wp-admin.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/wp-admin.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-admin/css/wp-admin.min.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-admin/css/wp-admin.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/wp-pointer-rtl.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/wp-pointer-rtl.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/wp-pointer-rtl.min.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/wp-pointer-rtl.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/wp-pointer.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/wp-pointer.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-includes/css/wp-pointer.min.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-includes/css/wp-pointer.min.css" />
     </list>
     <ignored path="JBC.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -187,58 +34,275 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="JBC" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Home.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="96" selection-start="1906" selection-end="1906" vertical-scroll-proportion="-9.807693" vertical-offset="544" max-vertical-offset="3281">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Bio.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bio.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="22" selection-start="917" selection-end="917" vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="1054">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="166" selection-start="499" selection-end="499" vertical-scroll-proportion="-11.56" vertical-offset="0" max-vertical-offset="731">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="969">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Index.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/Index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="4" selection-start="181" selection-end="181" vertical-scroll-proportion="0.26288658" vertical-offset="0" max-vertical-offset="2584">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/index.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="17" column="0" selection-start="499" selection-end="499" vertical-scroll-proportion="-0.0" vertical-offset="289" max-vertical-offset="731">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="content.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1071">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/footer.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/header.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="40" column="0" selection-start="1343" selection-end="1343" vertical-scroll-proportion="-20.923077" vertical-offset="0" max-vertical-offset="833">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="hello.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/plugins/hello.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1445">
+                  <folding>
+                    <marker date="1369256920000" expanded="true" signature="2091:2201" placeholder="..." />
+                    <marker date="1369256920000" expanded="true" signature="2101:2192" placeholder="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="widgets.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/BodyMantra/wp-includes/widgets.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="21301">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="carousel.php" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/BodyMantra/wp-includes/widgets/carousel.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="23" column="24" selection-start="544" selection-end="544" vertical-scroll-proportion="0.36042404" vertical-offset="0" max-vertical-offset="849">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="global.css" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/global.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="1" column="18" selection-start="30" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="272">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="771" column="21" selection-start="12522" selection-end="12522" vertical-scroll-proportion="0.0" vertical-offset="12926" max-vertical-offset="53465">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ie.css" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/ie.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4913">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/functions.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="251" column="8" selection-start="8613" selection-end="8613" vertical-scroll-proportion="-9.730769" vertical-offset="3640" max-vertical-offset="9044">
+                  <folding>
+                    <marker date="1393184844863" expanded="true" signature="9086:9130" placeholder="..." />
+                    <marker date="1393184844863" expanded="true" signature="9203:9304" placeholder="..." />
+                    <marker date="1393184844863" expanded="true" signature="10235:10279" placeholder="..." />
+                    <marker date="1393184844863" expanded="true" signature="10351:10382" placeholder="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="comments.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/comments.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="952">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="comment-template.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/BodyMantra/wp-includes/comment-template.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="1462" column="47" selection-start="49697" selection-end="49697" vertical-scroll-proportion="-2.5490196" vertical-offset="24605" max-vertical-offset="36567">
+                  <folding>
+                    <marker date="1385305150000" expanded="true" signature="28740:28893" placeholder="..." />
+                    <marker date="1385305150000" expanded="true" signature="33427:33587" placeholder="SELECT * FRO..$wpdb-&gt;comments WHERE..." />
+                    <marker date="1385305150000" expanded="true" signature="33814:34011" placeholder="SELECT * FRO..$wpdb-&gt;comments WHERE..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="content-gallery.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content-gallery.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="22" column="43" selection-start="605" selection-end="621" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="765">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="media.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/BodyMantra/wp-includes/media.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="702" column="13" selection-start="26342" selection-end="30896" vertical-scroll-proportion="-3.2692308" vertical-offset="11764" max-vertical-offset="35581">
+                  <folding>
+                    <marker date="1386104051000" expanded="true" signature="29109:29467" placeholder="..." />
+                    <marker date="1386104051000" expanded="true" signature="29127:29151" placeholder="{...}" />
+                    <marker date="1386104051000" expanded="true" signature="29182:29281" placeholder="{...}" />
+                    <marker date="1386104051000" expanded="true" signature="29302:29339" placeholder="{...}" />
+                    <marker date="1386104051000" expanded="true" signature="29373:29399" placeholder="{...}" />
+                    <marker date="1386104051000" expanded="false" signature="30799:30810" placeholder="..." />
+                    <marker date="1386104051000" expanded="false" signature="30849:30861" placeholder="..." />
+                    <marker date="1386104051000" expanded="false" signature="39583:39613" placeholder="..." />
+                    <marker date="1386104051000" expanded="true" signature="65592:65608" placeholder="Insert into ..." />
+                    <marker date="1386104051000" expanded="true" signature="65619:65635" placeholder="Insert into ..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="WPSE45326_Gallery_Replacement.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/plugins/WPSE45326_Gallery_Replacement.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="14" column="5" selection-start="811" selection-end="811" vertical-scroll-proportion="30.333334" vertical-offset="1785" max-vertical-offset="2856">
+                  <folding>
+                    <marker date="1393188477069" expanded="true" signature="4236:4594" placeholder="..." />
+                    <marker date="1393188477069" expanded="true" signature="4254:4278" placeholder="{...}" />
+                    <marker date="1393188477069" expanded="true" signature="4309:4408" placeholder="{...}" />
+                    <marker date="1393188477069" expanded="true" signature="4429:4466" placeholder="{...}" />
+                    <marker date="1393188477069" expanded="true" signature="4500:4526" placeholder="{...}" />
+                    <marker date="1393188477069" expanded="true" signature="6159:6170" placeholder="..." />
+                    <marker date="1393188477069" expanded="true" signature="6223:6235" placeholder="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="elastislide.css" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/elastislide.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="17" column="1" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1258">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$USER_HOME$/Documents/_Ryan's Documents/Code/ResponsiveImageGallery/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1870">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="jquery.easing.1.3.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/js/jquery.easing.1.3.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3570">
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="gallery.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/js/gallery.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4505">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -263,14 +327,38 @@
         <option value="$PROJECT_DIR$/css/Bio.css" />
         <option value="$PROJECT_DIR$/Home.html" />
         <option value="$PROJECT_DIR$/css/Index.css" />
+        <option value="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/editor-style.css" />
+        <option value="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/global.css" />
+        <option value="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/style.css" />
+        <option value="$PROJECT_DIR$/BodyMantra/wp-includes/widgets/carousel.php" />
+        <option value="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/functions.php" />
+        <option value="$PROJECT_DIR$/BodyMantra/wp-content/plugins/Gallery_Carousel.php" />
+        <option value="$PROJECT_DIR$/BodyMantra/wp-content/plugins/WPSE45326_Gallery_Replacement.php" />
       </list>
     </option>
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1066" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -279,7 +367,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -293,11 +381,12 @@
       <showLibraryContents ProjectPane="true" />
       <hideEmptyPackages />
       <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -327,7 +416,217 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="BodyMantra" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BodyMantra" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="widgets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BodyMantra" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme-compat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BodyMantra" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BodyMantra" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BodyMantra" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bodymantra" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BodyMantra" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bodymantra" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BodyMantra" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bodymantra" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BodyMantra" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BodyMantra" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -339,7 +638,7 @@
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
-    <property name="options.lastSelected" value="http.proxy" />
+    <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
@@ -351,14 +650,30 @@
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="recentsLimit" value="5" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="176" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="194" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="200" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="879" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="198" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="186" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="193" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="872" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-content\themes\bodymantra\css" />
+      <recent name="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-content\themes\bodymantra\js" />
       <recent name="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra\wp-content\themes" />
       <recent name="C:\Users\Ryan\WebstormProjects\JBC\BodyMantra" />
       <recent name="C:\Users\Ryan\WebstormProjects\JBC\js\lib" />
-      <recent name="C:\Users\Ryan\WebstormProjects\JBC\css\Timeline" />
-      <recent name="C:\Users\Ryan\WebstormProjects\JBC\js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Ryan\WebstormProjects\JBC\js\lib" />
@@ -366,40 +681,188 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="name" value="Dart" />
-      <option name="saveOutputToFile" value="false" />
-      <option name="showConsoleOnStdErr" value="false" />
-      <option name="showConsoleOnStdOut" value="false" />
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
       <method />
     </configuration>
-    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
-      <setting name="configLocationType" value="CONFIG_FILE" />
-      <setting name="settingsFile" value="" />
-      <setting name="serverType" value="INTERNAL" />
-      <setting name="preferredDebugBrowser" value="CHROME" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
-      <browser start="false" url="" with-js-debugger="false" />
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" output_log_level="null" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <list size="0" />
@@ -428,42 +891,105 @@
       <changelist id="330bf268-8b5c-40fc-b123-4e66d936df56" name="Default" comment="" />
       <created>1377365512066</created>
       <updated>1377365512066</updated>
+      <workItem from="1392596130342" duration="227000" />
+      <workItem from="1392596373327" duration="137000" />
+      <workItem from="1392596532836" duration="102000" />
+      <workItem from="1392596648080" duration="66000" />
+      <workItem from="1392596732569" duration="4599000" />
+      <workItem from="1392944308373" duration="9426000" />
     </task>
     <task id="LOCAL-00001" summary="Added BodyMantra">
       <created>1391477418100</created>
       <updated>1391477418100</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added BodyMantra theme and responsive buttons on home page&#10;">
+      <created>1391647739917</created>
+      <updated>1391647739917</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14557000" />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32337245" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32299465" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15814696" sideWeight="0.67108166" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33475935" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20234291" sideWeight="0.67108166" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289183" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.330076" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3355049" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24972796" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14643237" sideWeight="0.6708861" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17944622" sideWeight="0.6708861" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.330076" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32337245" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20081136" sideWeight="0.67108166" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289183" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3355049" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.330076" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24972796" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18593645" sideWeight="0.6708861" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USERS">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
       <collection />
     </option>
   </component>
@@ -475,73 +1001,20 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Added BodyMantra" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added BodyMantra" />
+    <MESSAGE value="Added BodyMantra theme and responsive buttons on home page&#10;" />
+    <MESSAGE value="Implementing slide show" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementing slide show" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="16" selection-start="1717" selection-end="55388" vertical-scroll-proportion="0.0" vertical-offset="846" max-vertical-offset="3281">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="22" selection-start="917" selection-end="917" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="1054">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/Bio.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="58" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="918">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/Bio.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="43" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="408">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/_Ryan's Documents/Code/1_Scrolling_with_Skrollr/finished/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="19" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="2091">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/_Ryan's Documents/Code/9 Scrolling page backgrounds/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="33" selection-start="861" selection-end="861" vertical-scroll-proportion="0.0" vertical-offset="73" max-vertical-offset="1241">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/Timeline/themes/font/PT.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="39" selection-start="2079" selection-end="2079" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="357">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/jquery-1.10.2.min.map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home.html">
-      <provider selected="true" editor-type-id="text-editor">
         <state line="185" column="74" selection-start="60884" selection-end="60961" vertical-scroll-proportion="0.0" vertical-offset="2453" max-vertical-offset="3281">
           <folding />
         </state>
@@ -549,127 +1022,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Bio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="22" selection-start="917" selection-end="917" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="1054">
-          <folding />
-        </state>
+        <state line="23" column="22" selection-start="917" selection-end="917" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="1054" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/Bio.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="103" selection-start="137" selection-end="137" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="918">
-          <folding />
-        </state>
+        <state line="47" column="32" selection-start="2149" selection-end="2149" vertical-scroll-proportion="0.0" vertical-offset="37" max-vertical-offset="918" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/Bio.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="43" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="408">
-          <folding />
-        </state>
+        <state line="9" column="43" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="408" />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Documents/_Ryan's Documents/Code/1_Scrolling_with_Skrollr/finished/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="19" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="2091">
-          <folding />
-        </state>
+        <state line="36" column="19" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="2091" />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Documents/_Ryan's Documents/Code/9 Scrolling page backgrounds/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="33" selection-start="861" selection-end="861" vertical-scroll-proportion="0.0" vertical-offset="73" max-vertical-offset="1241">
-          <folding />
-        </state>
+        <state line="39" column="33" selection-start="861" selection-end="861" vertical-scroll-proportion="0.0" vertical-offset="73" max-vertical-offset="1241" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/Timeline/themes/font/PT.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="39" selection-start="2079" selection-end="2079" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="357">
-          <folding />
-        </state>
+        <state line="15" column="39" selection-start="2079" selection-end="2079" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="357" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/lib/jquery-1.10.2.min.map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="sourcemapFileViewerProvider">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="185" column="74" selection-start="60884" selection-end="60961" vertical-scroll-proportion="0.0" vertical-offset="2453" max-vertical-offset="3281">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="22" selection-start="917" selection-end="917" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="1054">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/Bio.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="32" selection-start="2149" selection-end="2149" vertical-scroll-proportion="0.0" vertical-offset="37" max-vertical-offset="918">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/Bio.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="43" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="408">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/_Ryan's Documents/Code/1_Scrolling_with_Skrollr/finished/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="19" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="2091">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/_Ryan's Documents/Code/9 Scrolling page backgrounds/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="33" selection-start="861" selection-end="861" vertical-scroll-proportion="0.0" vertical-offset="73" max-vertical-offset="1241">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/Timeline/themes/font/PT.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="39" selection-start="2079" selection-end="2079" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="357">
-          <folding />
-        </state>
+        <state line="15" column="39" selection-start="2079" selection-end="2079" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="357" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/lib/jquery-1.10.2.min.map">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/Timeline/themes/font/PT.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="39" selection-start="2079" selection-end="2079" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="357">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/jquery-1.10.2.min.map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Home.html">
@@ -700,19 +1096,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/Timeline/themes/font/PT.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="39" selection-start="2079" selection-end="2079" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
-          <folding />
-        </state>
+        <state line="15" column="39" selection-start="2079" selection-end="2079" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/lib/jquery-1.10.2.min.map">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="751">
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="sourcemapFileViewerProvider">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="751" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/lib/storyjs-embed.js">
@@ -722,70 +1114,258 @@
     </entry>
     <entry file="file://$USER_HOME$/Documents/_Ryan's Documents/Code/9 Scrolling page backgrounds/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="33" selection-start="861" selection-end="861" vertical-scroll-proportion="0.0" vertical-offset="73" max-vertical-offset="1241">
-          <folding />
-        </state>
+        <state line="39" column="33" selection-start="861" selection-end="861" vertical-scroll-proportion="0.0" vertical-offset="73" max-vertical-offset="1241" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/Bio.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="43" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/js/html5.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
-          <folding />
-        </state>
+        <state line="9" column="43" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374" />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Documents/_Ryan's Documents/Code/1_Scrolling_with_Skrollr/finished/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="19" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="2091">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="166" selection-start="499" selection-end="499" vertical-scroll-proportion="-11.56" vertical-offset="0" max-vertical-offset="731">
-          <folding />
-        </state>
+        <state line="36" column="19" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="2091" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/Bio.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="58" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="918">
+        <state line="11" column="58" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="918" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="76" selection-start="1906" selection-end="1906" vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="3281">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Bio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="22" selection-start="917" selection-end="917" vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="1054">
-          <folding />
-        </state>
+        <state line="23" column="22" selection-start="917" selection-end="917" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="1054" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home.html">
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/js/html5.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="96" selection-start="1906" selection-end="1906" vertical-scroll-proportion="-9.807693" vertical-offset="544" max-vertical-offset="3281">
+        <state line="6" column="40" selection-start="2342" selection-end="2343" vertical-scroll-proportion="0.1811723" vertical-offset="0" max-vertical-offset="563" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/js/theme-customizer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="4" selection-start="7" selection-end="8" vertical-scroll-proportion="0.0" vertical-offset="155" max-vertical-offset="782" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="43" selection-start="1164" selection-end="1168" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="1462">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/Index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="4" selection-start="181" selection-end="181" vertical-scroll-proportion="0.26288658" vertical-offset="0" max-vertical-offset="2584">
+        <state line="9" column="5" selection-start="182" selection-end="182" vertical-scroll-proportion="0.265625" vertical-offset="0" max-vertical-offset="2584" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/editor-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="11" selection-start="692" selection-end="696" vertical-scroll-proportion="0.0" vertical-offset="5627" max-vertical-offset="9928">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-includes/css/admin-bar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="5" selection-start="17" selection-end="18" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="18972">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/ie.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4913">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="18" selection-start="30" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="499" selection-end="499" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="731">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1071">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="569">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="771" column="21" selection-start="12522" selection-end="12522" vertical-scroll-proportion="0.0" vertical-offset="12926" max-vertical-offset="53465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/header.php">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="0" selection-start="1343" selection-end="1343" vertical-scroll-proportion="-20.923077" vertical-offset="0" max-vertical-offset="833">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/plugins/hello.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1445">
+          <folding>
+            <marker date="1369256920000" expanded="true" signature="2091:2201" placeholder="..." />
+            <marker date="1369256920000" expanded="true" signature="2101:2192" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/author-bio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="569">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-includes/widgets.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="21301">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="251" column="8" selection-start="8613" selection-end="8613" vertical-scroll-proportion="-9.730769" vertical-offset="3640" max-vertical-offset="9044">
+          <folding>
+            <marker date="1393184844863" expanded="true" signature="9086:9130" placeholder="..." />
+            <marker date="1393184844863" expanded="true" signature="9203:9304" placeholder="..." />
+            <marker date="1393184844863" expanded="true" signature="10235:10279" placeholder="..." />
+            <marker date="1393184844863" expanded="true" signature="10351:10382" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-includes/comment-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1462" column="47" selection-start="49697" selection-end="49697" vertical-scroll-proportion="-2.5490196" vertical-offset="24605" max-vertical-offset="36567">
+          <folding>
+            <marker date="1385305150000" expanded="true" signature="28740:28893" placeholder="..." />
+            <marker date="1385305150000" expanded="true" signature="33427:33587" placeholder="SELECT * FRO..$wpdb-&gt;comments WHERE..." />
+            <marker date="1385305150000" expanded="true" signature="33814:34011" placeholder="SELECT * FRO..$wpdb-&gt;comments WHERE..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-includes/widgets/carousel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="24" selection-start="544" selection-end="544" vertical-scroll-proportion="0.36042404" vertical-offset="0" max-vertical-offset="849">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content-gallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="43" selection-start="605" selection-end="621" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-includes/media.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="702" column="13" selection-start="26342" selection-end="30896" vertical-scroll-proportion="-3.2692308" vertical-offset="11764" max-vertical-offset="35581">
+          <folding>
+            <marker date="1386104051000" expanded="true" signature="29109:29467" placeholder="..." />
+            <marker date="1386104051000" expanded="true" signature="29127:29151" placeholder="{...}" />
+            <marker date="1386104051000" expanded="true" signature="29182:29281" placeholder="{...}" />
+            <marker date="1386104051000" expanded="true" signature="29302:29339" placeholder="{...}" />
+            <marker date="1386104051000" expanded="true" signature="29373:29399" placeholder="{...}" />
+            <marker date="1386104051000" expanded="false" signature="30799:30810" placeholder="..." />
+            <marker date="1386104051000" expanded="false" signature="30849:30861" placeholder="..." />
+            <marker date="1386104051000" expanded="false" signature="39583:39613" placeholder="..." />
+            <marker date="1386104051000" expanded="true" signature="65592:65608" placeholder="Insert into ..." />
+            <marker date="1386104051000" expanded="true" signature="65619:65635" placeholder="Insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/js/jquery.easing.1.3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3570">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/js/gallery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4505">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/js/jquery.elastislide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="289" column="47" selection-start="7800" selection-end="7849" vertical-scroll-proportion="0.33333334" vertical-offset="4731" max-vertical-offset="8024">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/plugins/WPSE45326_Gallery_Replacement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="5" selection-start="811" selection-end="811" vertical-scroll-proportion="30.333334" vertical-offset="1785" max-vertical-offset="2856">
+          <folding>
+            <marker date="1393188477069" expanded="true" signature="4236:4594" placeholder="..." />
+            <marker date="1393188477069" expanded="true" signature="4254:4278" placeholder="{...}" />
+            <marker date="1393188477069" expanded="true" signature="4309:4408" placeholder="{...}" />
+            <marker date="1393188477069" expanded="true" signature="4429:4466" placeholder="{...}" />
+            <marker date="1393188477069" expanded="true" signature="4500:4526" placeholder="{...}" />
+            <marker date="1393188477069" expanded="true" signature="6159:6170" placeholder="..." />
+            <marker date="1393188477069" expanded="true" signature="6223:6235" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/elastislide.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="1" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1258">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/_Ryan's Documents/Code/ResponsiveImageGallery/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1870">
           <folding />
         </state>
       </provider>
