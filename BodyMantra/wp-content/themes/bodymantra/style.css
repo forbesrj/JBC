@@ -1,17 +1,12 @@
 /*
-Theme Name: Twenty Thirteen
-Theme URI: http://wordpress.org/themes/twentythirteen
-Author: the WordPress team
-Author URI: http://wordpress.org/
-Description: The 2013 theme for WordPress takes us back to the blog, featuring a full range of post formats, each displayed beautifully in their own unique way. Design details abound, starting with a vibrant color scheme and matching header images, beautiful typography and icons, and a flexible layout that looks great on any device, big or small.
-Version: 1.1
+Theme Name: Body Mantra
+Author: Ryan Forbes and the WordPress team
+Author URI: http://justbettercode.com
+Description: An updated take on the 2013 theme for Body Mantra
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags: black, brown, orange, tan, white, yellow, light, one-column, two-columns, right-sidebar, fluid-layout, responsive-layout, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready
-Text Domain: twentythirteen
-
-This theme, like WordPress, is licensed under the GPL.
-Use it to make something cool, have fun, and share what you've learned with others.
+Tags: purple, white, light, one-column, two-columns, right-sidebar, fluid-layout, responsive-layout, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready
+Text Domain: bodymantra
 */
 
 
@@ -46,6 +41,27 @@ Use it to make something cool, have fun, and share what you've learned with othe
  * ----------------------------------------------------------------------------
  */
 
+#slideshow-wrappergallery1{
+    position: absolute !important;
+    width: 100% !important;
+    left: 0 !important;
+    top: 0 !important;
+}
+
+#post-2 header{
+    margin-top: 500px;
+}
+
+#fullsizegallery1{
+    height: 500px !important;
+}
+
+#imagegallery1 img{
+    box-shadow: 0 0 1000px #750e72;
+    max-height: 800px;
+    max-width: 1500px;
+    margin: auto auto;
+}
 
 /**
  * 1.0 Reset
@@ -2769,6 +2785,20 @@ footer.entry-meta {
 	.gallery-caption {
 		display: none;
 	}
+
+    /*Slideshow gallery*/
+    #fullsizegallery1{
+        height: 400px !important;
+    }
+
+    #post-2 header{
+        margin-top: 400px;
+    }
+
+
+    #imagegallery1 img{
+        min-height: 400px;
+    }
 }
 
 @media (max-width: 643px) {
@@ -3006,6 +3036,19 @@ footer.entry-meta {
 	.comment-list .reply {
 		width: 100%;
 	}
+    /*Slideshow gallery*/
+    #fullsizegallery1{
+        height: 400px !important;
+    }
+
+    #post-2 header{
+        margin-top: 400px;
+    }
+
+
+    #imagegallery1 img{
+        min-height: 400px;
+    }
 }
 
 

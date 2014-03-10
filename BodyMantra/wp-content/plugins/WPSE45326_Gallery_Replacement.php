@@ -97,26 +97,7 @@ class  wpse_45326_Gallery_Replacement {
         $selector = "gallery-{$instance}";
 
         $gallery_style = $gallery_div = '';
-        if ( apply_filters( 'use_default_gallery_style', true ) )
-            $gallery_style = "
-		<style type='text/css'>
-			#{$selector} {
-				margin: auto;
-			}
-			#{$selector} .gallery-item {
-				float: {$float};
-				margin-top: 10px;
-				text-align: center;
-				width: {$itemwidth}%;
-			}
-			#{$selector} img {
-				border: 2px solid #cfcfcf;
-			}
-			#{$selector} .gallery-caption {
-				margin-left: 0;
-			}
-			/* see gallery_shortcode() in wp-includes/media.php */
-		</style>";
+        
         $size_class = sanitize_html_class( $size );
         $gallery_div = "<div id='$selector' class='gallery galleryid-{$id} gallery-columns-{$columns} gallery-size-{$size_class}'>";
         $output = apply_filters( 'gallery_style', $gallery_style . "\n\t\t" . $gallery_div );

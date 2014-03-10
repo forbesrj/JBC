@@ -1457,7 +1457,7 @@ function comment_id_fields( $id = 0 ) {
 function comment_form_title( $noreplytext = false, $replytext = false, $linktoparent = true ) {
 	global $comment;
 
-	if ( false === $noreplytext ) $noreplytext = __( 'Leave a Reply' );
+	if ( false === $noreplytext ) $noreplytext = __( 'Make an Appointment Call 970.704.0664' );
 	if ( false === $replytext ) $replytext = __( 'Leave a Reply to %s' );
 
 	$replytoid = isset($_GET['replytocom']) ? (int) $_GET['replytocom'] : 0;

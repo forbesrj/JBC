@@ -2,7 +2,7 @@
     color: #C070A6;
     background: #750E72;
     background: -moz-linear-gradient(top, #750E72 , #3D073C 100%);
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(,#750E72), color-stop(100%,#3D073C));
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(100%,#750E72), color-stop(100%,#3D073C));
     background: -webkit-linear-gradient(top, #750E72 ,#3D073C 100%);
     background: -o-linear-gradient(top, #750E72 ,#3D073C 100%);
     background: -ms-linear-gradient(top, #750E72 ,#3D073C 100%);
