@@ -9,3 +9,8 @@
     background: linear-gradient(to bottom, #750E72 ,#3D073C 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#750E72', endColorstr='#3D073C',GradientType=0 );
 }
+
+@font-face {
+    font-family: "Lovers-Quarrel";
+    src: url("../fonts/LoversQuarrel-Regular.otf");
+}
