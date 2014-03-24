@@ -168,6 +168,10 @@ h6 {
 	line-height: 1.3;
 }
 
+#informationgallery1 h3{
+    font-family: Bitter, Georgia, serif;
+}
+
 h1 {
 	font-size: 48px;
 	margin: 33px 0;
