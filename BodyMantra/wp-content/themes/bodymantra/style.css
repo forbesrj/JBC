@@ -153,8 +153,8 @@ a:hover {
 }
 
 @font-face {
-    font-family: "Lovers-Quarrel";
-    src: url("fonts/LoversQuarrel-Regular.otf");
+    font-family: "GreatVibes";
+    src: url("fonts/GreatVibes-Regular.otf");
 }
 
 h1,
@@ -164,7 +164,7 @@ h4,
 h5,
 h6 {
 	clear: both;
-	font-family: Lovers-Quarrel, Bitter, Georgia, serif;
+	font-family: GreatVibes, Bitter, Georgia, serif;
 	line-height: 1.3;
 }
 
