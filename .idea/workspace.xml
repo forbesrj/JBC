@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="330bf268-8b5c-40fc-b123-4e66d936df56" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/style.css" afterPath="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Home.html" afterPath="$PROJECT_DIR$/Home.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JBC.iws" />
@@ -105,10 +105,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="61" column="17" selection-start="1535" selection-end="1535" vertical-scroll-proportion="0.5748218" vertical-offset="795" max-vertical-offset="54349">
+                <state line="61" column="17" selection-start="1535" selection-end="1535" vertical-scroll-proportion="0.0" vertical-offset="769" max-vertical-offset="54349">
                   <folding />
                 </state>
               </provider>
@@ -132,10 +132,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Home.html" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="Home.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Home.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="158" column="108" selection-start="59913" selection-end="59913" vertical-scroll-proportion="-15.461538" vertical-offset="2284" max-vertical-offset="3553">
+                <state line="152" column="11" selection-start="59492" selection-end="59492" vertical-scroll-proportion="0.15201901" vertical-offset="2520" max-vertical-offset="3519">
                   <folding />
                 </state>
               </provider>
@@ -184,7 +184,7 @@
           <file leaf-file-name="media.php" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/BodyMantra/wp-includes/media.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="702" column="13" selection-start="26342" selection-end="30896" vertical-scroll-proportion="-57.53616" vertical-offset="35006" max-vertical-offset="35666">
+                <state line="2075" column="9" selection-start="70682" selection-end="70682" vertical-scroll-proportion="0.6708229" vertical-offset="35006" max-vertical-offset="35666">
                   <folding>
                     <marker date="1386104051000" expanded="true" signature="29109:29467" placeholder="..." />
                     <marker date="1386104051000" expanded="true" signature="29127:29151" placeholder="{...}" />
@@ -275,11 +275,11 @@
         <option value="$PROJECT_DIR$/BodyMantra/wp-content/plugins/slideshow-gallery/js/gallery.js" />
         <option value="$PROJECT_DIR$/BodyMantra/wp-includes/comment-template.php" />
         <option value="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/global.css" />
-        <option value="$PROJECT_DIR$/Home.html" />
         <option value="$PROJECT_DIR$/css/less/_Globals.less" />
         <option value="$PROJECT_DIR$/css/less/Index.less" />
         <option value="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/footer.php" />
         <option value="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/style.css" />
+        <option value="$PROJECT_DIR$/Home.html" />
       </list>
     </option>
   </component>
@@ -359,171 +359,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="JBC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JBC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JBC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JBC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JBC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="less" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JBC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JBC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fonts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JBC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JBC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="BodyMantra" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="wp-includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JBC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JBC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BodyMantra" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JBC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JBC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BodyMantra" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JBC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JBC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BodyMantra" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bodymantra" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JBC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JBC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BodyMantra" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bodymantra" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inc" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -723,7 +563,11 @@
       <created>1395714292997</created>
       <updated>1395714292997</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Updated slidegallery">
+      <created>1395872577895</created>
+      <updated>1395872577895</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -829,7 +673,8 @@
     <MESSAGE value="Slideshow font fix" />
     <MESSAGE value="Added examples section" />
     <MESSAGE value="Added JBC Copyright" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added JBC Copyright" />
+    <MESSAGE value="Updated slidegallery" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated slidegallery" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1050,13 +895,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="158" column="108" selection-start="59913" selection-end="59913" vertical-scroll-proportion="-15.461538" vertical-offset="2284" max-vertical-offset="3553">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/less/_Globals.less">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="13" selection-start="285" selection-end="285" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="340">
@@ -1103,24 +941,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="286" column="6" selection-start="9685" selection-end="9685" vertical-scroll-proportion="-38.64" vertical-offset="3896" max-vertical-offset="9418">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-includes/media.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="702" column="13" selection-start="26342" selection-end="30896" vertical-scroll-proportion="-57.53616" vertical-offset="35006" max-vertical-offset="35666">
-          <folding>
-            <marker date="1386104051000" expanded="true" signature="29109:29467" placeholder="..." />
-            <marker date="1386104051000" expanded="true" signature="29127:29151" placeholder="{...}" />
-            <marker date="1386104051000" expanded="true" signature="29182:29281" placeholder="{...}" />
-            <marker date="1386104051000" expanded="true" signature="29302:29339" placeholder="{...}" />
-            <marker date="1386104051000" expanded="true" signature="29373:29399" placeholder="{...}" />
-            <marker date="1386104051000" expanded="false" signature="30799:30810" placeholder="..." />
-            <marker date="1386104051000" expanded="false" signature="30849:30861" placeholder="..." />
-            <marker date="1386104051000" expanded="false" signature="39583:39613" placeholder="..." />
-            <marker date="1386104051000" expanded="true" signature="65592:65608" placeholder="Insert into ..." />
-            <marker date="1386104051000" expanded="true" signature="65619:65635" placeholder="Insert into ..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1189,7 +1009,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="17" selection-start="1535" selection-end="1535" vertical-scroll-proportion="0.5748218" vertical-offset="795" max-vertical-offset="54349">
+        <state line="61" column="17" selection-start="1535" selection-end="1535" vertical-scroll-proportion="0.0" vertical-offset="769" max-vertical-offset="54349">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-includes/media.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2075" column="9" selection-start="70682" selection-end="70682" vertical-scroll-proportion="0.6708229" vertical-offset="35006" max-vertical-offset="35666">
+          <folding>
+            <marker date="1386104051000" expanded="true" signature="29109:29467" placeholder="..." />
+            <marker date="1386104051000" expanded="true" signature="29127:29151" placeholder="{...}" />
+            <marker date="1386104051000" expanded="true" signature="29182:29281" placeholder="{...}" />
+            <marker date="1386104051000" expanded="true" signature="29302:29339" placeholder="{...}" />
+            <marker date="1386104051000" expanded="true" signature="29373:29399" placeholder="{...}" />
+            <marker date="1386104051000" expanded="false" signature="30799:30810" placeholder="..." />
+            <marker date="1386104051000" expanded="false" signature="30849:30861" placeholder="..." />
+            <marker date="1386104051000" expanded="false" signature="39583:39613" placeholder="..." />
+            <marker date="1386104051000" expanded="true" signature="65592:65608" placeholder="Insert into ..." />
+            <marker date="1386104051000" expanded="true" signature="65619:65635" placeholder="Insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="152" column="11" selection-start="59492" selection-end="59492" vertical-scroll-proportion="0.15201901" vertical-offset="2520" max-vertical-offset="3519">
           <folding />
         </state>
       </provider>
