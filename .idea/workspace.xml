@@ -66,13 +66,14 @@
     <favorites_list name="JBC" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.64654416">
+    <splitter split-orientation="horizontal" split-proportion="0.4490161">
       <split-first>
         <leaf>
           <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/functions.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="286" column="6" selection-start="9685" selection-end="9685" vertical-scroll-proportion="-38.64" vertical-offset="3896" max-vertical-offset="9418">
+                <state vertical-scroll-proportion="-38.64" vertical-offset="3896" max-vertical-offset="9418">
+                  <caret line="286" column="6" selection-start-line="286" selection-start-column="6" selection-end-line="286" selection-end-column="6" />
                   <folding />
                 </state>
               </provider>
@@ -81,7 +82,8 @@
           <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/footer.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="4" column="26" selection-start="81" selection-end="81" vertical-scroll-proportion="-0.33333334" vertical-offset="51" max-vertical-offset="561">
+                <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="561">
+                  <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
                   <folding />
                 </state>
               </provider>
@@ -90,34 +92,49 @@
           <file leaf-file-name="theme-customizer.js" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/js/theme-customizer.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="1" column="4" selection-start="7" selection-end="8" vertical-scroll-proportion="0.0" vertical-offset="322" max-vertical-offset="782">
+                <state vertical-scroll-proportion="0.0" vertical-offset="322" max-vertical-offset="782">
+                  <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="global.css" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/global.css">
+          <file leaf-file-name="media.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/BodyMantra/wp-includes/media.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="11" column="0" selection-start="634" selection-end="734" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
-                  <folding />
+                <state vertical-scroll-proportion="-5.76" vertical-offset="34774" max-vertical-offset="35666">
+                  <caret line="2054" column="2" selection-start-line="2054" selection-start-column="2" selection-end-line="2054" selection-end-column="2" />
+                  <folding>
+                    <marker date="1386104051000" expanded="true" signature="29109:29467" placeholder="..." />
+                    <marker date="1386104051000" expanded="true" signature="29127:29151" placeholder="{...}" />
+                    <marker date="1386104051000" expanded="true" signature="29182:29281" placeholder="{...}" />
+                    <marker date="1386104051000" expanded="true" signature="29302:29339" placeholder="{...}" />
+                    <marker date="1386104051000" expanded="true" signature="29373:29399" placeholder="{...}" />
+                    <marker date="1386104051000" expanded="false" signature="30799:30810" placeholder="..." />
+                    <marker date="1386104051000" expanded="false" signature="30849:30861" placeholder="..." />
+                    <marker date="1386104051000" expanded="false" signature="39583:39613" placeholder="..." />
+                    <marker date="1386104051000" expanded="true" signature="65592:65608" placeholder="Insert into ..." />
+                    <marker date="1386104051000" expanded="true" signature="65619:65635" placeholder="Insert into ..." />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/style.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="61" column="17" selection-start="1535" selection-end="1535" vertical-scroll-proportion="0.0" vertical-offset="769" max-vertical-offset="54349">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Index.less" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="Index.less" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/less/Index.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="115" column="12" selection-start="2325" selection-end="2325" vertical-scroll-proportion="-22.23077" vertical-offset="1377" max-vertical-offset="2958">
+                <state vertical-scroll-proportion="0.30141845" vertical-offset="1479" max-vertical-offset="3162">
+                  <caret line="102" column="17" selection-start-line="102" selection-start-column="17" selection-end-line="102" selection-end-column="17" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Home.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Home.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-9.807693" vertical-offset="459" max-vertical-offset="3604">
+                  <caret line="42" column="3" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
                   <folding />
                 </state>
               </provider>
@@ -126,16 +143,8 @@
           <file leaf-file-name="_Globals.less" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/less/_Globals.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="14" column="13" selection-start="285" selection-end="285" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="340">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Home.html" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Home.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="152" column="11" selection-start="59492" selection-end="59492" vertical-scroll-proportion="0.15201901" vertical-offset="2520" max-vertical-offset="3519">
+                <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="374">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -148,7 +157,8 @@
           <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/functions.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="286" column="6" selection-start="9685" selection-end="9685" vertical-scroll-proportion="-23.8" vertical-offset="4267" max-vertical-offset="9418">
+                <state vertical-scroll-proportion="0.0" vertical-offset="4267" max-vertical-offset="9418">
+                  <caret line="286" column="6" selection-start-line="286" selection-start-column="6" selection-end-line="286" selection-end-column="6" />
                   <folding />
                 </state>
               </provider>
@@ -157,7 +167,8 @@
           <file leaf-file-name="comments.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/comments.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -166,7 +177,8 @@
           <file leaf-file-name="comment-template.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/BodyMantra/wp-includes/comment-template.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="1459" column="54" selection-start="49563" selection-end="49563" vertical-scroll-proportion="-0.0" vertical-offset="24803" max-vertical-offset="36686">
+                <state vertical-scroll-proportion="0.0" vertical-offset="24803" max-vertical-offset="36686">
+                  <caret line="1459" column="54" selection-start-line="1459" selection-start-column="54" selection-end-line="1459" selection-end-column="54" />
                   <folding />
                 </state>
               </provider>
@@ -175,16 +187,18 @@
           <file leaf-file-name="content-gallery.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content-gallery.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="22" column="43" selection-start="605" selection-end="621" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="867">
+                <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="867">
+                  <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="media.php" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="media.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/BodyMantra/wp-includes/media.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="2075" column="9" selection-start="70682" selection-end="70682" vertical-scroll-proportion="0.6708229" vertical-offset="35006" max-vertical-offset="35666">
+                <state vertical-scroll-proportion="-4.84" vertical-offset="34797" max-vertical-offset="35666">
+                  <caret line="2054" column="2" selection-start-line="2054" selection-start-column="2" selection-end-line="2054" selection-end-column="2" />
                   <folding>
                     <marker date="1386104051000" expanded="true" signature="29109:29467" placeholder="..." />
                     <marker date="1386104051000" expanded="true" signature="29127:29151" placeholder="{...}" />
@@ -204,7 +218,8 @@
           <file leaf-file-name="admin.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/plugins/jetpack/modules/comments/admin.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="49" column="39" selection-start="1098" selection-end="1098" vertical-scroll-proportion="0.0" vertical-offset="664" max-vertical-offset="3638">
+                <state vertical-scroll-proportion="0.0" vertical-offset="664" max-vertical-offset="3638">
+                  <caret line="49" column="39" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
                   <folding />
                 </state>
               </provider>
@@ -213,7 +228,8 @@
           <file leaf-file-name="comments.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/plugins/jetpack/modules/comments/comments.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="210" column="119" selection-start="6563" selection-end="6624" vertical-scroll-proportion="0.0" vertical-offset="3394" max-vertical-offset="8959">
+                <state vertical-scroll-proportion="0.0" vertical-offset="3570" max-vertical-offset="8959">
+                  <caret line="210" column="119" selection-start-line="210" selection-start-column="119" selection-end-line="210" selection-end-column="119" />
                   <folding />
                 </state>
               </provider>
@@ -222,7 +238,18 @@
           <file leaf-file-name="content-gallery.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven/content-gallery.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="70" column="99" selection-start="3297" selection-end="3297" vertical-scroll-proportion="0.0" vertical-offset="1190" max-vertical-offset="1411">
+                <state vertical-scroll-proportion="0.0" vertical-offset="1190" max-vertical-offset="1411">
+                  <caret line="70" column="99" selection-start-line="70" selection-start-column="99" selection-end-line="70" selection-end-column="99" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Home.html" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Home.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.27659574" vertical-offset="2367" max-vertical-offset="3604">
+                  <caret line="153" column="107" selection-start-line="153" selection-start-column="107" selection-end-line="153" selection-end-column="107" />
                   <folding />
                 </state>
               </provider>
@@ -231,7 +258,8 @@
           <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$USER_HOME$/Documents/_Ryan's Documents/Code/ResponsiveImageGallery/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="35" column="31" selection-start="1578" selection-end="1578" vertical-scroll-proportion="-9.807693" vertical-offset="340" max-vertical-offset="1870">
+                <state vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="1870">
+                  <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
                   <folding />
                 </state>
               </provider>
@@ -275,19 +303,20 @@
         <option value="$PROJECT_DIR$/BodyMantra/wp-content/plugins/slideshow-gallery/js/gallery.js" />
         <option value="$PROJECT_DIR$/BodyMantra/wp-includes/comment-template.php" />
         <option value="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/global.css" />
-        <option value="$PROJECT_DIR$/css/less/_Globals.less" />
-        <option value="$PROJECT_DIR$/css/less/Index.less" />
         <option value="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/footer.php" />
         <option value="$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/style.css" />
         <option value="$PROJECT_DIR$/Home.html" />
+        <option value="$PROJECT_DIR$/css/less/_Globals.less" />
+        <option value="$PROJECT_DIR$/css/less/Index.less" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="y" value="85" />
-    <option name="width" value="1918" />
-    <option name="height" value="895" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -319,7 +348,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -359,11 +388,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="BodyMantra" />
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JBC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JBC" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wp-includes" />
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="less" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -457,18 +500,23 @@
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
-      <setting name="preferredDebugBrowser" value="CHROME" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
-      <browser start="false" url="" with-js-debugger="false" />
       <method />
     </configuration>
     <list size="0" />
@@ -567,7 +615,11 @@
       <created>1395872577895</created>
       <updated>1395872577895</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Homepage">
+      <created>1395875830609</created>
+      <updated>1395875830609</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -594,23 +646,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="85" width="1918" height="895" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3237598" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3381201" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20430107" sideWeight="0.67108166" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33405876" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.10430107" sideWeight="0.42664093" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3355049" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.330076" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24972796" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10430107" sideWeight="0.5714286" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32898173" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20415778" sideWeight="0.67108166" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10607676" sideWeight="0.5714286" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.10430107" sideWeight="0.42664093" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33405876" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32799146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3355049" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -619,9 +668,12 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3237598" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3381201" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.330076" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -650,7 +702,10 @@
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USERS">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
   </component>
@@ -674,7 +729,8 @@
     <MESSAGE value="Added examples section" />
     <MESSAGE value="Added JBC Copyright" />
     <MESSAGE value="Updated slidegallery" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated slidegallery" />
+    <MESSAGE value="Homepage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homepage" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -686,35 +742,40 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="251" column="8" selection-start="8617" selection-end="8617" vertical-scroll-proportion="0.0" vertical-offset="4267" max-vertical-offset="9418">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4267" max-vertical-offset="9418">
+          <caret line="251" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/comments.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-includes/comment-template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1459" column="54" selection-start="49563" selection-end="49563" vertical-scroll-proportion="0.0" vertical-offset="24803" max-vertical-offset="36686">
+        <state vertical-scroll-proportion="0.0" vertical-offset="24803" max-vertical-offset="36686">
+          <caret line="1459" column="54" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content-gallery.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="43" selection-start="605" selection-end="621" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="867">
+        <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="867">
+          <caret line="22" column="43" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-includes/media.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="702" column="13" selection-start="26342" selection-end="30896" vertical-scroll-proportion="0.0" vertical-offset="11934" max-vertical-offset="35666">
+        <state vertical-scroll-proportion="0.0" vertical-offset="11934" max-vertical-offset="35666">
+          <caret line="702" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <marker date="1386104051000" expanded="true" signature="29109:29467" placeholder="..." />
             <marker date="1386104051000" expanded="true" signature="29127:29151" placeholder="{...}" />
@@ -732,291 +793,310 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/plugins/jetpack/modules/comments/admin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="39" selection-start="1098" selection-end="1098" vertical-scroll-proportion="0.0" vertical-offset="664" max-vertical-offset="3638">
+        <state vertical-scroll-proportion="0.0" vertical-offset="664" max-vertical-offset="3638">
+          <caret line="49" column="39" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/plugins/jetpack/modules/comments/comments.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="210" column="119" selection-start="6563" selection-end="6600" vertical-scroll-proportion="0.0" vertical-offset="3394" max-vertical-offset="8959">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3394" max-vertical-offset="8959">
+          <caret line="210" column="119" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven/content-gallery.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="99" selection-start="3297" selection-end="3297" vertical-scroll-proportion="0.0" vertical-offset="1190" max-vertical-offset="1411">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1190" max-vertical-offset="1411">
+          <caret line="70" column="99" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Documents/_Ryan's Documents/Code/ResponsiveImageGallery/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="17" selection-start="1083" selection-end="1083" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="1870">
+        <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="1870">
+          <caret line="20" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/lib/storyjs-embed.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="1682" selection-start="3895" selection-end="3895" vertical-scroll-proportion="0.73660207" vertical-offset="0" max-vertical-offset="877" />
+        <state vertical-scroll-proportion="0.73660207" vertical-offset="0" max-vertical-offset="877">
+          <caret line="45" column="1682" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Documents/_Ryan's Documents/Code/9 Scrolling page backgrounds/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="33" selection-start="861" selection-end="861" vertical-scroll-proportion="0.0" vertical-offset="73" max-vertical-offset="1241" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="73" max-vertical-offset="1241">
+          <caret line="39" column="33" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/Bio.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="43" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <caret line="9" column="43" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Documents/_Ryan's Documents/Code/1_Scrolling_with_Skrollr/finished/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="19" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="2091" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="2091">
+          <caret line="36" column="19" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/editor-style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="11" selection-start="692" selection-end="696" vertical-scroll-proportion="0.0" vertical-offset="5627" max-vertical-offset="9928" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="5627" max-vertical-offset="9928">
+          <caret line="42" column="11" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-includes/css/admin-bar.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="5" selection-start="17" selection-end="18" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="18972" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="18972">
+          <caret line="1" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/ie.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4913" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4913">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="499" selection-end="499" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="731" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="731">
+          <caret line="17" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/plugins/hello.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1445" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1445">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/author-bio.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="569" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="569">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-includes/widgets.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="21301" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="21301">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/comments.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content-gallery.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="43" selection-start="605" selection-end="621" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="867">
+        <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="867">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/plugins/jetpack/modules/comments/admin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="39" selection-start="1098" selection-end="1098" vertical-scroll-proportion="0.0" vertical-offset="664" max-vertical-offset="3638">
+        <state vertical-scroll-proportion="0.0" vertical-offset="664" max-vertical-offset="3638">
+          <caret line="49" column="39" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/plugins/jetpack/modules/comments/comments.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="210" column="119" selection-start="6563" selection-end="6624" vertical-scroll-proportion="0.0" vertical-offset="3394" max-vertical-offset="8959">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3570" max-vertical-offset="8959">
+          <caret line="210" column="119" selection-start-line="210" selection-start-column="119" selection-end-line="210" selection-end-column="119" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven/content-gallery.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="99" selection-start="3297" selection-end="3297" vertical-scroll-proportion="0.0" vertical-offset="1190" max-vertical-offset="1411">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1190" max-vertical-offset="1411">
+          <caret line="70" column="99" selection-start-line="70" selection-start-column="99" selection-end-line="70" selection-end-column="99" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/tag.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-includes/comment-template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1459" column="54" selection-start="49563" selection-end="49563" vertical-scroll-proportion="0.0" vertical-offset="24803" max-vertical-offset="36686">
+        <state vertical-scroll-proportion="0.0" vertical-offset="24803" max-vertical-offset="36686">
+          <caret line="1459" column="54" selection-start-line="1459" selection-start-column="54" selection-end-line="1459" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Documents/_Ryan's Documents/Code/ResponsiveImageGallery/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="31" selection-start="1578" selection-end="1578" vertical-scroll-proportion="-9.807693" vertical-offset="340" max-vertical-offset="1870">
+        <state vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="1870">
+          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/css/global.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="634" selection-end="734" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="374">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/Bio.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="34" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="439" max-vertical-offset="918">
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="439" max-vertical-offset="918">
+          <caret line="11" column="34" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Bio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="22" selection-start="917" selection-end="917" vertical-scroll-proportion="8.076923" vertical-offset="601" max-vertical-offset="1054">
-          <folding />
+        <state vertical-scroll-proportion="8.076923" vertical-offset="601" max-vertical-offset="1054">
+          <caret line="23" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/Index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="1" selection-start="0" selection-end="2900" vertical-scroll-proportion="2.1077235" vertical-offset="0" max-vertical-offset="2227">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/less/_Globals.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="13" selection-start="285" selection-end="285" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="340">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/less/Index.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="115" column="12" selection-start="2325" selection-end="2325" vertical-scroll-proportion="-22.23077" vertical-offset="1377" max-vertical-offset="2958">
-          <folding />
+        <state vertical-scroll-proportion="2.1077235" vertical-offset="0" max-vertical-offset="2227">
+          <caret line="61" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="0" selection-start="1343" selection-end="1343" vertical-scroll-proportion="-16.52" vertical-offset="267" max-vertical-offset="969">
-          <folding />
+        <state vertical-scroll-proportion="-16.52" vertical-offset="267" max-vertical-offset="969">
+          <caret line="40" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/js/html5.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="40" selection-start="2342" selection-end="2343" vertical-scroll-proportion="0.22818792" vertical-offset="0" max-vertical-offset="447">
-          <folding />
+        <state vertical-scroll-proportion="0.22818792" vertical-offset="0" max-vertical-offset="447">
+          <caret line="6" column="40" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/twentythirteen/js/functions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1462">
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1462">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/js/functions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="43" selection-start="1164" selection-end="1168" vertical-scroll-proportion="1.7114094" vertical-offset="0" max-vertical-offset="1462">
-          <folding />
+        <state vertical-scroll-proportion="1.7114094" vertical-offset="0" max-vertical-offset="1462">
+          <caret line="45" column="43" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="286" column="6" selection-start="9685" selection-end="9685" vertical-scroll-proportion="-38.64" vertical-offset="3896" max-vertical-offset="9418">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4267" max-vertical-offset="9418">
+          <caret line="286" column="6" selection-start-line="286" selection-start-column="6" selection-end-line="286" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.2156398" vertical-offset="513" max-vertical-offset="935">
-          <folding />
+        <state vertical-scroll-proportion="-1.2156398" vertical-offset="513" max-vertical-offset="935">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/inc/custom-header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-8.386256" vertical-offset="3539" max-vertical-offset="3961">
-          <folding />
+        <state vertical-scroll-proportion="-8.386256" vertical-offset="3539" max-vertical-offset="3961">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/inc/back-compat.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1309">
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1309">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/category.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.8530806" vertical-offset="360" max-vertical-offset="782">
-          <folding />
+        <state vertical-scroll-proportion="-0.8530806" vertical-offset="360" max-vertical-offset="782">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/content.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1071">
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1071">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-includes/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-164.47867" vertical-offset="69410" max-vertical-offset="71383">
-          <folding />
+        <state vertical-scroll-proportion="-164.47867" vertical-offset="69410" max-vertical-offset="71383">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/author.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.96682465" vertical-offset="408" max-vertical-offset="1139">
-          <folding />
+        <state vertical-scroll-proportion="-0.96682465" vertical-offset="408" max-vertical-offset="1139">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/js/theme-customizer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="4" selection-start="7" selection-end="8" vertical-scroll-proportion="0.0" vertical-offset="322" max-vertical-offset="782">
+        <state vertical-scroll-proportion="0.0" vertical-offset="322" max-vertical-offset="782">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="26" selection-start="81" selection-end="81" vertical-scroll-proportion="-0.33333334" vertical-offset="51" max-vertical-offset="561">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="17" selection-start="1535" selection-end="1535" vertical-scroll-proportion="0.0" vertical-offset="769" max-vertical-offset="54349">
+        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="561">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BodyMantra/wp-includes/media.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2075" column="9" selection-start="70682" selection-end="70682" vertical-scroll-proportion="0.6708229" vertical-offset="35006" max-vertical-offset="35666">
+        <state vertical-scroll-proportion="-4.84" vertical-offset="34797" max-vertical-offset="35666">
+          <caret line="2054" column="2" selection-start-line="2054" selection-start-column="2" selection-end-line="2054" selection-end-column="2" />
           <folding>
             <marker date="1386104051000" expanded="true" signature="29109:29467" placeholder="..." />
             <marker date="1386104051000" expanded="true" signature="29127:29151" placeholder="{...}" />
@@ -1032,9 +1112,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BodyMantra/wp-content/themes/bodymantra/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="769" max-vertical-offset="54349">
+          <caret line="61" column="17" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/less/_Globals.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="859">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/less/Index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30141845" vertical-offset="1479" max-vertical-offset="3162">
+          <caret line="102" column="17" selection-start-line="102" selection-start-column="17" selection-end-line="102" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="152" column="11" selection-start="59492" selection-end="59492" vertical-scroll-proportion="0.15201901" vertical-offset="2520" max-vertical-offset="3519">
+        <state vertical-scroll-proportion="0.27659574" vertical-offset="2367" max-vertical-offset="3604">
+          <caret line="153" column="107" selection-start-line="153" selection-start-column="107" selection-end-line="153" selection-end-column="107" />
           <folding />
         </state>
       </provider>
