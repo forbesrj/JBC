@@ -1,0 +1,126 @@
+@teal: #13728E;
+@gray: #999;
+@red: #f11;
+@pencil: #fa1;
+
+body{
+  background-color: @teal;
+}
+
+nav{
+  background-color: #333;
+  opacity: .5;
+  color: white;
+}
+
+h1{
+  margin: 0 auto 30px;
+}
+
+.show-case{
+  margin: auto;
+  height: 123px;
+  width: 118px;
+  a{
+    box-shadow: 0 0 0 4px rgba(255,255,255,1);
+    border: solid 10px transparent;
+    background-color: white;
+    border-radius: 75px;
+    margin: auto;
+    font-family: 'FontAwesome';
+    font-size: 90px;
+    padding: 15px 20px;
+    transition: background 0.2s, color 0.2s;
+    &.fa-gear{
+      color: @gray;
+      &:hover:before{
+        -webkit-animation: spinAround 2s linear infinite;
+        -moz-animation: spinAround 2s linear infinite;
+        animation: spinAround 2s linear infinite;
+      }
+    }
+
+    &.fa-heart{
+      color: @red;
+      &:hover:before{
+        -webkit-animation: thumpThump 2s linear infinite;
+        -moz-animation: thumpThump 2s linear infinite;
+        animation: thumpThump 2s linear infinite;
+      }
+    }
+
+    &.fa-pencil{
+      color: @pencil;
+      &:hover:before{
+        -webkit-animation: pencil 2s linear infinite;
+        -moz-animation: pencil 2s linear infinite;
+        animation: pencil 2s linear infinite;
+      }
+    }
+    &:hover {
+      text-decoration: none;
+      background-color: @teal;
+      border: white solid 10px;
+    }
+  }
+  & + h2{
+    text-align: center;
+    border: 10px transparent solid;
+    margin-left: 30px;
+  }
+}
+
+.content{
+  position: relative;
+  top: 200px;
+}
+
+/*Keyframes*/
+/*SpinAround*/
+@-webkit-keyframes spinAround {
+  from {
+    -webkit-transform: rotate(0deg)
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+  }
+}
+@-moz-keyframes spinAround {
+  from {
+    -moz-transform: rotate(0deg)
+  }
+  to {
+    -moz-transform: rotate(360deg);
+  }
+}
+@keyframes spinAround {
+  from {
+    transform: rotate(0deg)
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+/*ThumpThump*/
+.thump-thump(){
+  from { transform: none; }
+  20% { transform: scale(1.25); }
+  40% { transform: none; }
+  60% { transform: scale(1.18); }
+  80% {transform: none;}
+  to { transform: none; }
+}
+@-webkit-keyframes thumpThump {.thump-thump}
+@-moz-keyframes thumpThump {.thump-thump}
+@keyframes thumpThump {.thump-thump}
+/*Pencil*/
+.pencil(){
+  from{transform: none;}
+  25%{transform: translate(10px, 5px);}
+  50%{transform: translate(20px,0);}
+  75%{transform: translate(30px, 5px);}
+  to{transform: none;}
+}
+@-webkit-keyframes pencil {.pencil}
+@-moz-keyframes pencil {.pencil}
+@keyframes pencil {.pencil}
