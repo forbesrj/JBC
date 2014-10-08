@@ -1,20 +1,52 @@
+//Variables
+//Colors
 @teal: #13728E;
 @gray: #999;
 @red: #f11;
 @pencil: #fa1;
+@white: #fff;
+//Fonts
+@headerFont: 'Pacifico', 'Times New Roman', serif;
+@subheaderFont: 'Quicksand', Arial, sans-serif;
+@bodyFont: 'Open Sans', sans-serif;
 
 body{
   background-color: @teal;
+  font-family: @bodyFont;
+  color: @white;
 }
 
 nav{
   background-color: #333;
-  opacity: .5;
-  color: white;
+  opacity: .8;
+  color: @white;
+  font-family: @subheaderFont;
+  font-size: 20px;
+  li a{
+    color: #fff;
+  }
+  .icon-bar{
+    background-color: @white;
+  }
 }
 
 h1{
   margin: 0 auto 30px;
+  .brand{
+    font-size: 12px;
+  }
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: @headerFont;
+  color: @white;
+  code{
+    background-color: inherit;
+    border-radius: 0;
+    color: inherit;
+    padding: auto;
+    font-family: @subheaderFont;
+  }
 }
 
 .show-case{
@@ -59,8 +91,6 @@ h1{
     }
     &:hover {
       text-decoration: none;
-      background-color: @teal;
-      border: white solid 10px;
     }
   }
   & + h2{
@@ -75,32 +105,21 @@ h1{
   top: 200px;
 }
 
+footer{
+  position: fixed;
+  bottom: 1px;
+  width: 100%;
+}
+
 /*Keyframes*/
 /*SpinAround*/
-@-webkit-keyframes spinAround {
-  from {
-    -webkit-transform: rotate(0deg)
-  }
-  to {
-    -webkit-transform: rotate(360deg);
-  }
+.spin(){
+  from {-webkit-transform: rotate(0deg)}
+  to {-webkit-transform: rotate(360deg);}
 }
-@-moz-keyframes spinAround {
-  from {
-    -moz-transform: rotate(0deg)
-  }
-  to {
-    -moz-transform: rotate(360deg);
-  }
-}
-@keyframes spinAround {
-  from {
-    transform: rotate(0deg)
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+@-webkit-keyframes spinAround {.spin}
+@-moz-keyframes spinAround {.spin}
+@keyframes spinAround {.spin}
 /*ThumpThump*/
 .thump-thump(){
   from { transform: none; }
