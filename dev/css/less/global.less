@@ -1,17 +1,21 @@
 //Variables
 //Colors
+@black: #000;
 @teal: #13728E;
 @gray: #999;
 @red: #f11;
 @pencil: #fa1;
 @white: #fff;
+@partners: #f26;
+@projects: #f93;
+@contact: #3a3;
 //Fonts
 @headerFont: 'Pacifico', 'Times New Roman', serif;
 @subheaderFont: 'Quicksand', Arial, sans-serif;
 @bodyFont: 'Open Sans', sans-serif;
 
 body{
-  background-color: @teal;
+  background-color: @black;
   font-family: @bodyFont;
   color: @white;
 }
@@ -28,6 +32,7 @@ nav{
   .icon-bar{
     background-color: @white;
   }
+  z-index: 1000;
 }
 
 h1{
@@ -53,6 +58,12 @@ h1, h2, h3, h4, h5, h6{
   margin: auto;
   height: 123px;
   width: 118px;
+  font-size: 90px;
+  &.small{
+    font-size: 45px;
+    height: 62px;
+    width: 59px;
+  }
   a{
     box-shadow: 0 0 0 4px rgba(255,255,255,1);
     border: solid 10px transparent;
@@ -60,7 +71,6 @@ h1, h2, h3, h4, h5, h6{
     border-radius: 75px;
     margin: auto;
     font-family: 'FontAwesome';
-    font-size: 90px;
     padding: 15px 20px;
     transition: background 0.2s, color 0.2s;
     &.fa-gear{
@@ -101,14 +111,67 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .content{
-  position: relative;
-  top: 200px;
+  bottom:0;
+  padding:75px 100px 0;
+  position:absolute;
+  top:0;
+  width:100%;
+  height: 100%;
+
+
+  &.home{
+    background-color: @teal;
+    padding-top: 150px;
+  }
+
+  &.technical{
+    background-color: @gray;
+    .row{
+      margin-top: 100px;
+    }
+  }
+
+  &.artistic{
+    background-color: @pencil;
+    .row{
+      margin-top: 100px;
+    }
+  }
+
+  &.emotional{
+    background-color: @red;
+    .row{
+      margin-top: 100px;
+    }
+  }
+
+  &.projects{
+    background-color: @projects;
+  }
+
+  &.partners{
+    background-color: @partners;
+  }
+
+  &.contact{
+    background-color: @contact;
+  }
 }
 
 footer{
   position: fixed;
   bottom: 1px;
+  right: 10px;
   width: 100%;
+  z-index: 1000;
+}
+
+p{
+  text-align: left;
+}
+
+.margin-bottom{
+  margin-bottom: 50px;
 }
 
 /*Keyframes*/
@@ -143,3 +206,16 @@ footer{
 @-webkit-keyframes pencil {.pencil}
 @-moz-keyframes pencil {.pencil}
 @keyframes pencil {.pencil}
+
+/* scale up */
+@keyframes scaleUp {
+  from 	{ opacity: 0.3; -webkit-transform: scale(0.8); }
+}
+/* slide in from the bottom */
+@keyframes slideOutLeft {
+  to 		{ transform: translateX(-100%); }
+}
+
+
+.ng-enter 		{ z-index: 888; }
+.ng-leave 		{ z-index: 999; }

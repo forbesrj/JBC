@@ -6,49 +6,51 @@
     <link href='http://fonts.googleapis.com/css?family=Quicksand|Pacifico|Open+Sans' rel='stylesheet' type='text/css'>
     <link href="css/bootstrap/bootstrap.min.css" type="text/css" rel="stylesheet">
     <link href="css/font-awesome.min.css" type="text/css" rel="stylesheet">
+    <link href="css/animations.css" type="text/css" rel="stylesheet">
     <link href="css/global.css" type="text/css" rel="stylesheet">
 
     <script src="js/lib/jquery.min.js"></script>
     <script src="js/lib/bootstrap.min.js"></script>
     <script src="js/lib/angular.min.js"></script>
     <script src="js/lib/angular-route.min.js"></script>
+    <script src="js/lib/angular-animate.min.js"></script>
     <script src="js/routing.js"></script>
+    <script src="js/controllers.js"></script>
 </head>
-<body>
-<nav class="navbar-fixed-top nav">
-    <div class="container">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="#"><h1 class="brand">Just Better <code>Code</code></h1></a>
+<body page-animate>
+    <nav class="navbar-fixed-top nav" ng-controller="HeaderController">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="./#/"><h1 class="brand">Just Better <code>Code</code></h1></a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li ng-class="{ active: isActive('/')}">
+                        <a href="./#/">Home</a>
+                    </li>
+                    <li ng-class="{ active: isActive('/projects')}">
+                        <a href="./#/projects">Projects</a>
+                    </li>
+                    <li ng-class="{ active: isActive('/partners')}">
+                        <a href="./#/partners">Partners</a>
+                    </li>
+                    <li ng-class="{ active: isActive('/contact')}">
+                        <a href="./#/contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
         </div>
-        <div class="navbar-collapse collapse">
-            <ul class="nav navbar-nav navbar-right">
-                <li ng-class="{ active: isActive('/')}">
-                    <a href="./#/">Home</a>
-                </li>
-                <li ng-class="{ active: isActive('/projects')}">
-                    <a href="./#/projects">Projects</a>
-                </li>
-                <li ng-class="{ active: isActive('/partners')}">
-                    <a href="./#/partners">Partners</a>
-                </li>
-                <li ng-class="{ active: isActive('/contact')}">
-                    <a href="./#/contact">Contact</a>
-                </li>
-            </ul>
-        </div>
+    </nav>
+    <footer>
+        <span class="pull-right">Just Better Code &copy;2014</span>
+    </footer>
+
+    <div class="container content {{pageClass}}" ng-view>
     </div>
-</nav>
-
-<div class="container content" ng-view>
-</div>
-<footer>
-
-    <span class="pull-right">Just Better Code &copy;2014</span>
-</footer>
 </body>
 </html>
