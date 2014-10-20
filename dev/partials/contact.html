@@ -1,8 +1,27 @@
 <h1>Contact</h1>
+<form id="nl-form" class="nl-form">
+    <input type="hidden" name="subject" value="New Contact Form Email">
 
-<dl>
-    <dt>Email</dt>
-    <dd><a href="mailto:iwant@justbettercode.com">iwant@justbettercode.com</a></dd>
-    <dt>Phone</dt>
-    <dd>970.930.1539</dd>
-</dl>
+        Hi, my name is
+        <nl-text value="nlForm.name" name="name" subline="Johnny User;ACME, Inc.">
+        </nl-text>
+    and my email address is
+
+    <nl-text value="nlForm.email" name="email" subline="johnny.user@email.com;company@acme.co"></nl-text>. As I was browsing the Just Better Code
+        website, I just wanted to say <textarea name="contact-body" onclick="this.focus();this.select()">{{nlForm.comment}}</textarea>
+
+    <div class="nl-submit-wrap">
+        <button class="nl-submit" type="submit" ng-click="processForm()">Send</button>
+    </div>
+    <div class="nl-overlay"></div>
+</form>
+<div class="row contact-details">
+    <div class="col-xs-6">
+        <h4>Phone</h4>
+        <a href="tel:9709301539">970.930.1539</a>
+    </div>
+    <div class="col-xs-6 email">
+        <h4>Email</h4>
+        <a href="mailto:iwant@justbettercode.com">iwant@justbettercode.com</a>
+    </div>
+</div>

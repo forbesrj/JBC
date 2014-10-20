@@ -23,8 +23,13 @@ app.controller('EmotionalController', function($scope){
     $scope.pageClass = 'emotional';
 });
 
-app.controller('ContactController', function($scope){
+app.controller('ContactController', function($scope, $http){
     $scope.pageClass = 'contact';
+    $scope.nlForm = {};
+    $scope.nlForm.name = 'your name';
+    $scope.nlForm.email = 'your email';
+    $scope.nlForm.comment = 'your comments here.';
+
 });
 
 app.controller('ProjectsController', function($scope){

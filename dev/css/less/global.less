@@ -1,27 +1,4 @@
-//Variables
-//Colors
-@black: #000;
-@teal: #13728E;
-@gray: #999;
-@red: #f11;
-@pencil: #fa1;
-@white: #fff;
-@partners: #f26;
-@projects: #f93;
-@contact: #3a3;
-//Fonts
-@font-face {
-  font-family: "MuddyTractor";
-  src: url("../fonts/MuddyTractorDEMO-KCFonts.ttf");
-}
-@font-face {
-  font-family: "GreatVibes";
-  src: url("../fonts/GreatVibes-Regular.otf");
-}
-
-@headerFont: 'Pacifico', 'Times New Roman', serif;
-@subheaderFont: 'Quicksand', Arial, sans-serif;
-@bodyFont: 'Open Sans', sans-serif;
+@import "vars";
 
 body{
   background-color: @black;
@@ -33,6 +10,19 @@ body{
 b{
   font-weight: 900 !important;
   font-size: 24px;
+}
+
+form{
+  text-align: center;
+  margin: 0 15%;
+}
+
+a{
+  color: @projects;
+  &:hover {
+    text-decoration: none;
+    color: @teal;
+  }
 }
 
 nav{
@@ -257,6 +247,18 @@ p{
 .margin-bottom{
   margin-bottom: 50px;
 }
+
+.contact-details{
+  margin-top: 40px;
+  h4{
+    margin-right: 8%;
+    display: inline;
+  }
+  .email{
+    text-align: right;
+  }
+}
+
 
 /*Keyframes*/
 /*SpinAround*/
