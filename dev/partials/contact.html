@@ -1,27 +1,31 @@
 <h1>Contact</h1>
-<form id="nl-form" class="nl-form">
-    <input type="hidden" name="subject" value="New Contact Form Email">
+        <p>To find out more or see if Just Better Code can help you just call or email:</p>
+<div class="row contact-details">
+    <div class="col-sm-5">
+        <h1><i class="fa fa-mobile-phone"></i> <span class="text">Phone</span> </h1>
+        <a href="tel:9709301539">970.930.1539</a>
+    </div>
+    <div class="col-sm-7 email">
+        <h1><i class="fa fa-envelope"></i> <span class="text">Email</span> </h1>
+        <a href="mailto:iwant@justbettercode.com">iwant@justbettercode.com</a>
+    </div>
+</div>
 
-        Hi, my name is
-        <nl-text value="nlForm.name" name="name" subline="Johnny User;ACME, Inc.">
-        </nl-text>
+<div class="coming-soon">
+<h1>Just Better <code>Email Composer</code></h1>
+<form id="nl-form" class="nl-form" action="mailto:iwant@justbettercode.com?subject=I%20want%20Just%20Better%20Code&cc={{nlForm.email}}&body=Hi,%20my%20name%20is%20{{nlForm.name}}.%20As%20I%20was%20browsing%20your%20website,%20I%20just%20wanted%20to%20say%20{{nlForm.comments}}.">
+
+    Hi, my name is
+    <nl-text value="nlForm.name" name="name" subline="Johnny User;ACME, Inc.">
+    </nl-text>
     and my email address is
 
     <nl-text value="nlForm.email" name="email" subline="johnny.user@email.com;company@acme.co"></nl-text>. As I was browsing the Just Better Code
-        website, I just wanted to say <textarea name="contact-body" onclick="this.focus();this.select()">{{nlForm.comment}}</textarea>
+    website, I just wanted to say <textarea name="contact-body" onclick="this.focus();this.select()">{{nlForm.comment}}</textarea>
 
     <div class="nl-submit-wrap">
-        <button class="nl-submit" type="submit" ng-click="processForm()">Send</button>
+        <button class="nl-submit" type="submit">Send</button>
     </div>
     <div class="nl-overlay"></div>
 </form>
-<div class="row contact-details">
-    <div class="col-xs-6">
-        <h4>Phone</h4>
-        <a href="tel:9709301539">970.930.1539</a>
-    </div>
-    <div class="col-xs-6 email">
-        <h4>Email</h4>
-        <a href="mailto:iwant@justbettercode.com">iwant@justbettercode.com</a>
-    </div>
 </div>

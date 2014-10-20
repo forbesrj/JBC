@@ -1,5 +1,15 @@
 @import "vars";
 
+//Fonts
+@font-face {
+  font-family: "MuddyTractor";
+  src: url("../fonts/MuddyTractorDEMO-KCFonts.ttf");
+}
+@font-face {
+  font-family: "GreatVibes";
+  src: url("../fonts/GreatVibes-Regular.otf");
+}
+
 body{
   background-color: @black;
   font-family: @bodyFont;
@@ -184,7 +194,7 @@ h1, h2, h3, h4, h5, h6{
               font-size: 75px;
               color: @projects;
               padding-top: 50px;
-              text-shadow: 0 0 2px #aacc36;
+              text-shadow: 0 0 2px @guac;
             }
           }
         }
@@ -249,16 +259,32 @@ p{
 }
 
 .contact-details{
-  margin-top: 40px;
-  h4{
+  margin: 40px 0;
+  h1{
     margin-right: 8%;
     display: inline;
+    .fa{
+      border: solid 3px @white;
+      border-radius: 60px;
+      padding: 10px;
+      margin-right: 10px;
+      &.fa-mobile-phone{
+        padding: 10px 20px;
+      }
+    }
   }
   .email{
     text-align: right;
   }
+  a{
+    color: @white;
+    font-size: 24px;
+  }
 }
 
+.coming-soon{
+  display: none;
+}
 
 /*Keyframes*/
 /*SpinAround*/
@@ -305,3 +331,36 @@ p{
 
 .ng-enter 		{ z-index: 888; }
 .ng-leave 		{ z-index: 999; }
+
+@media (max-width: 767px) {
+  .contact-details{
+    .email{
+      text-align: left;
+      margin-top: 20px;
+    }
+    h1{
+      margin-right: 0;
+      .text{
+        display: none;
+      }
+    }
+  }
+}
+
+@media(max-width: 960px){
+  .cfw{
+    .info{
+      img{
+        width: 300px;
+      }
+    }
+  }
+
+  .nacho{
+    .info{
+      h1{
+        font-size: 40px !important;
+      }
+    }
+  }
+}
