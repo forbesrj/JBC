@@ -1,7 +1,7 @@
 /**
  * Created by Ryan on 10/8/2014.
  */
-var app = angular.module('jbcModule', ['ngRoute', 'ngAnimate', 'vr.directives.nlForm']);
+var app = angular.module('jbcModule', ['ngRoute', 'ngAnimate']);
 
 app.config(['$routeProvider', function($routeProvider){
     $routeProvider
