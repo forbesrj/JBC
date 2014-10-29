@@ -9,13 +9,6 @@
     <link href="css/font-awesome.min.css" type="text/css" rel="stylesheet">
     <link href="css/bootstrap/bootstrap.min.css" type="text/css" rel="stylesheet">
     <link href="css/global.css" type="text/css" rel="stylesheet">
-
-    <script src="js/lib/jquery.min.js"></script>
-    <script src="js/lib/bootstrap.min.js"></script>
-    <script src="js/lib/angular.min.js"></script>
-    <script src="js/lib/angular-route.min.js"></script>
-    <script src="js/lib/angular-animate.min.js"></script>
-    <script src="js/app.js"></script>
 </head>
 <body page-animate>
     <nav class="navbar-fixed-top nav" ng-controller="HeaderController">
@@ -46,8 +39,13 @@
     <footer>
         <span class="pull-right">Just Better Code &copy;2014</span>
     </footer>
-
     <div class="container content {{pageClass}}" ng-view>
     </div>
 </body>
+<script src="js/lib/jquery.min.js"></script>
+<script src="js/lib/bootstrap.min.js"></script>
+<script src="js/lib/angular.min.js"></script>
+<script src="js/lib/angular-route.min.js"></script>
+<script src="js/lib/angular-animate.min.js"></script>
+<script src="js/app.js"></script>
 </html>
